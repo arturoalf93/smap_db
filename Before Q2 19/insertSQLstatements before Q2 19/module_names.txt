@@ -1,0 +1,1 @@
+INSERT IGNORE INTO module_names (module_nameid, module_name) VALUES ("1", "eProcurement"), ("2", "Invoice to Pay"), ("3", "Procure to Pay"), ("4", "Sourcing"), ("5", "Spend Analytics"), ("6", "Supplier Relationship Management"), ("7", "Conctract Lyfecicle Management");

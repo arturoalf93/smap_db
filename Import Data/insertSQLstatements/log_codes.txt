@@ -1,0 +1,1 @@
+INSERT IGNORE INTO log_codes (action_code, action) VALUES ("1", "abc"), ("2", "bcd"), ("99", "test successful login");

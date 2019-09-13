@@ -1,0 +1,1 @@
+INSERT IGNORE INTO UserTypes (UserTypeID, UserType, Privileges, TypeDescription) VALUES ("1", "DBA", NULL, "Database Administrator"), ("2", "Analyst", NULL, "Analyst that belongs to SpendMatters"), ("3", "SMAP participant", NULL, "Provider that participates in SMAP"), ("4", "Customer", NULL, "Regular SpendMatters customers");

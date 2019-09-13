@@ -1,0 +1,1 @@
+INSERT IGNORE INTO user_roles (user_roleid, user_role) VALUES ("1", "God"), ("2", "Subgod"), ("3", "Practitioner");

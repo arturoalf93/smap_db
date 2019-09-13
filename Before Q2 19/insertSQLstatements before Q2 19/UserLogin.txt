@@ -1,0 +1,1 @@
+INSERT IGNORE INTO userlogin (userid, email, user_type_id, password, update_date, active) VALUES ("1", "arodriguez@metalminer.com", "1", "nopasswordyet", "2017-04-01 00:00:01", "1");

@@ -1,0 +1,1 @@
+INSERT IGNORE INTO current_quarteryear_c (quarter, year) VALUES ("3", "2019");

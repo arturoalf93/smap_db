@@ -1,0 +1,1 @@
+INSERT IGNORE INTO rfi_participation_status (rfi_participation_status_id, rfi_participation_status) VALUES ("1", "abc"), ("2", "bcd");

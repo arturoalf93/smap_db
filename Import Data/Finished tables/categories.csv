@@ -1,0 +1,13 @@
+cid,pc_id,category_name,user_id,quarter,year,ud
+1,1,Opportunity,1,4,2017,2017-10-01 00:00:01
+201,21,Analytics,1,2,2019,2019-04-01 00:00:01
+202,21,Configurability,1,2,2019,2019-04-01 00:00:01
+203,21,Supplier Portal,1,2,2019,2019-04-01 00:00:01
+204,21,SXM,1,2,2019,2019-04-01 00:00:01
+205,21,Technology,1,2,2019,2019-04-01 00:00:01
+206,22,Contingent Workforce / Services Procurement,1,2,2019,2019-04-01 00:00:01
+207,22,Performance Management,1,2,2019,2019-04-01 00:00:01
+208,22,Relationship Management,1,2,2019,2019-04-01 00:00:01
+209,22,Risk Management,1,2,2019,2019-04-01 00:00:01
+210,22,Supplier Information Management,1,2,2019,2019-04-01 00:00:01
+211,22,Supplier Portal,1,2,2019,2019-04-01 00:00:01

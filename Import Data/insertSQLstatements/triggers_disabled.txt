@@ -1,0 +1,1 @@
+INSERT IGNORE INTO triggers_disabled (flag) VALUES ("0");

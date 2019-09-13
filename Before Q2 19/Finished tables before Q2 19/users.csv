@@ -1,0 +1,6 @@
+userid,email,user_type,assigned_vendor_id,password,update_date,active,registration_date,anonymized,private
+0,Unknown (Excel submission),Regular,,a,2017-04-01 00:00:01,1,2017-04-01 00:00:01,0,0
+1,arodriguez@metalminer.com,DBA,,a,2017-04-01 00:00:01,1,2017-04-01 00:00:01,0,0
+2,michael@example.com,Analyst,,a,2017-04-01 00:00:01,1,2017-04-01 00:00:01,0,0
+3,dina@example.com,Staff,,a,2017-04-01 00:00:01,1,2017-04-01 00:00:01,0,0
+4,example@GEP.com,Regular,6,a,2017-04-01 00:00:01,1,2017-04-01 00:00:01,0,0

@@ -1,0 +1,3 @@
+log_row_id,attempted_email,user_id,ip,datetime,action_code
+1,nologin@gmail.com,1,ip1,2019-04-01 00:00:01,2
+2,yeslogin@gmail.com,2,ip2,2019-04-01 00:00:01,99

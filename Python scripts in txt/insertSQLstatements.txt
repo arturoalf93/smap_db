@@ -1,0 +1,52 @@
+
+import pandas as pd
+import os
+
+encoding = 'utf-8' #Mac
+encoding = 'cp1252' #Windows
+
+def rowList(row, cols):
+    rowList = []
+    for c in cols:
+        if pd.isnull(row[c]): rowList += ['NULL']
+        elif type(row[c]) == int: rowList += ['"' + str(row[c]) + '"']
+        elif type(row[c]) == float:
+            if row[c].is_integer(): rowList += ['"' + str(int(row[c])) + '"']
+            else: rowList += ['"' + str(row[c]) + '"']
+        else: rowList += ['"' + str(row[c]).replace('"', '\\"').replace("'", "\\'") + '"']
+    return rowList
+
+test_data_path = os.getcwd() + '\\ImportData test\\'
+sql_path = os.getcwd() + '\\insertSQLstatements\\'
+files = os.listdir(test_data_path)
+
+for f in files:
+    filename, ext = f.split('.')[0], f.split('.')[1]
+    if ext != 'csv': print('*****', f, 'NOT CSV FILE')
+    else:
+        df = pd.read_csv(test_data_path + f, encoding=encoding)
+        if len(df.index) == 0: print('-----', f, 'EMPTY')
+        else:
+            cols = list(df.columns)
+            sql = 'INSERT IGNORE INTO ' + filename + ' (' + ', '.join(cols) + ') VALUES '
+            for index, row in df.iterrows():
+                sql += '(' + ', '.join(rowList(row, cols)) + '), '
+            sql = sql[:-2]+';'
+            fi = open(sql_path + filename + '.txt','w')
+            fi.write(sql)
+            fi.close()
+            print(f + ' CREATED')
+
+
+'''
+#CREATE FILE WITH ALL THE INSERTS TOGETHER
+#We need still need to define insert order
+try: os.remove(sql_path + '0ALL.txt')
+except: pass
+ordered = []
+with open(sql_path + '0ALL.txt','w') as outfile:
+    for fname in ordered:
+        with open(sql_path + fname + '.txt') as infile:
+            outfile.write(infile.read() + '\n')
+            print(fname, 'ADDED')
+'''

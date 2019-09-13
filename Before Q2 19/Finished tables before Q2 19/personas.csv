@@ -1,0 +1,11 @@
+personaid,personaname,persona_description,quarter,year,update_date
+1,Nimble,Description of Nimble,2,2017,2017-04-01 00:00:01
+2,Deep,Description of Deep,2,2017,2017-04-01 00:00:01
+3,Mega,Description of Mega,2,2017,2017-04-01 00:00:01
+3,Turn-Key,Description of Turn-Key,4,2017,2017-10-01 00:00:01
+4,DIY,Description of DIY,2,2017,2017-04-01 00:00:01
+4,Configurator,Description of Configurator,4,2017,2017-10-01 00:00:01
+5,ERP-Wrapper,Description of ERP-Wrapper,2,2017,2017-04-01 00:00:01
+5,CIO-Friendly,Description of CIO-Friendly,4,2017,2017-10-01 00:00:01
+6,Optimizer,Description of Optimizer,4,2017,2017-10-01 00:00:01
+7,Industry,Description of Industry,2,2017,2017-04-01 00:00:01

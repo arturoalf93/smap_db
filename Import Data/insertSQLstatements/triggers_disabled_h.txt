@@ -1,0 +1,1 @@
+INSERT IGNORE INTO triggers_disabled_h (flag, quarter, year, ud, user_id) VALUES ("0", "2", "2017", "2017-04-01 00:00:01", "1");

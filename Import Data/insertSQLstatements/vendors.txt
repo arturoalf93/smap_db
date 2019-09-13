@@ -1,0 +1,1 @@
+INSERT IGNORE INTO vendors (vendorid, ud, vendor_name, active, quarter, year) VALUES ("1", "2019-04-01 00:00:01", "Vendor A participating in Sourcing", "1", "2", "2019"), ("2", "2019-04-01 00:00:01", "Vendor B participating in SA", "1", "2", "2019"), ("3", "2019-04-01 00:00:01", "Vendor C participating in Sourcing and SA", "1", "2", "2019");
