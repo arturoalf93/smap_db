@@ -14,6 +14,9 @@ encoding = 'utf-8' #Mac
 SourceFolder = 'Finished tables'
 DestinationFolder = 'insertSQLstatements'
 
+FK_TRIGGERS_DISABLED_USERS = "ALTER TABLE `smap_production`.`triggers_disabled_c` ADD INDEX `fk_triggers_disabled_idx` (`user_id` ASC) VISIBLE; ; ALTER TABLE `smap_production`.`triggers_disabled_c`  ADD CONSTRAINT `fk_triggers_disabled` FOREIGN KEY (`user_id`) REFERENCES `smap_production`.`users_c` (`userid`) ON DELETE NO ACTION ON UPDATE NO ACTION;"
+FK_VENDORS_USERS = "ALTER TABLE `smap_production`.`vendors_c` ADD INDEX `fk_vendors_idx` (`user_id` ASC) VISIBLE; ; ALTER TABLE `smap_production`.`vendors_c`  ADD CONSTRAINT `fk_vendors` FOREIGN KEY (`user_id`) REFERENCES `smap_production`.`users_c` (`userid`) ON DELETE NO ACTION ON UPDATE NO ACTION;"
+
 
 def rowList(row, cols):
     rowList = []
@@ -57,8 +60,11 @@ try: os.remove(os.path.join(sql_path, '0ALL.txt'))
 except: pass
 
 ordered = [ 'triggers_disabled_c',
-            'current_quarteryear_c', 'rfi_participation_status', 'user_roles', 'log_codes',
-           'vendors_c', 'users_c', 'users_h', 'current_quarteryear_h',
+            'rfi_participation_status', 'user_roles', 'log_codes',
+           'vendors_c', 'users_c', 
+           'current_quarteryear_c',
+           'FK_VENDORS_USERS', 'FK_TRIGGERS_DISABLED_USERS',
+           'users_h', 'current_quarteryear_h',
            'vendors_h', 'log_trail', 'modules_c', 'modules_h', 'vendor_modules_c', 'vendor_modules_h',
            'parent_categories_c', 'parent_categories_h', 'categories_c', 'categories_h', 'subcategories_c', 
            'subcategories_h', 'elements_c', 'elements_h', 'module_elements_c', 'module_elements_h',
@@ -83,6 +89,13 @@ ordered = ['Suites', 'Categories', 'Subcategories', 'Elements', 'SuiteCategory',
 """
 with open(os.path.join(sql_path, '0ALL.txt'),'w') as outfile:
     for fname in ordered:
-        with open(os.path.join(sql_path, fname + '.txt')) as infile:
-            outfile.write(infile.read() + '\n')
-            print(fname, 'ADDED')
+        if fname == 'FK_TRIGGERS_DISABLED_USERS':
+            outfile.write(FK_TRIGGERS_DISABLED_USERS + '\n')
+            print(fname, 'FK ADDED')
+        elif fname == 'FK_VENDORS_USERS':
+            outfile.write(FK_VENDORS_USERS + '\n')
+            print(fname, 'FK ADDED')
+        else:
+            with open(os.path.join(sql_path, fname + '.txt')) as infile:
+                    outfile.write(infile.read() + '\n')
+                    print(fname, 'ADDED')

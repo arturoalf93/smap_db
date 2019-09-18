@@ -1,1 +1,1 @@
-INSERT IGNORE INTO triggers_disabled_c (flag) VALUES ("1");
+INSERT IGNORE INTO triggers_disabled_c (flag, user_id) VALUES ("1", "1");
