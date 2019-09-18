@@ -1,233 +1,233 @@
-﻿sid,c_id,subcategory_name
-1,1,Catalogs
-2,1,Shopping / Requisitioning
-3,1,Ordering
-4,1,Receiving
-5,2,Supplier Network
-6,2,Configurability
-7,2,Technology
-8,2,Services
-9,3,Invoicing
-10,3,Payment / Financing
-11,4,Category Analysis
-12,4,Should-Cost Modeling
-13,5,Project Management
-14,6,Supplier Portal
-15,7,Spend Analysis
-16,8,RFX / Surveys
-17,8,Evaluation mechanisms
-18,8,RFX Management Capabilities
-19,8,Auction
-20,9,Optimization
-21,9,Sophisticated Constraint Analysis
-22,10,Contract Management
-23,11,Performance Management
-24,11,Risk Management
-25,11,Corrective Management
-26,12,Technology
-27,13,Configurability
-28,14,Services
-29,15,Data Layer
-30,16,Process Support
-31,17,Raw Capability
-32,17,Out of the Box
-33,18,Technology
-34,19,Configurability
-35,20,Services
-36,21,MDM
-37,22,SIM
-38,23,Conflict Resolution
-39,23,SPM
-40,23,Innovation Management & NPD
-41,23,Risk Management
-42,24,Portal
-43,25,Technology
-44,26,Configurability
-45,27,Services
-46,28,Core Contract Modeling
-47,28,Extended Contract Modeling and Analytics
-48,29,Contract Expiry & Renewal Management
-49,29,Contract Creation and Authoring
-50,29,Contract Collaboration
-51,29,Contract Performance Management
-52,30,Performance Management Analytics
-53,30,Knowledge Management and Expertise
-54,31,General Areas (not integration specific) 
-55,31,Integrations
-56,32,Configurability
-57,33,Services
-58,34,Supplier Management
-59,35,Candidate Evaluation/Selection
-60,36,Candidate Submissions
-61,37,Change Order Management
-62,38,Engagement Management
-63,39,On / Off -boarding
-64,40,Online Support and Help
-65,41,Rate Management
-66,42,Requisition Creation and Approvals
-67,43,Time and Expense
-68,44,Treasury Management
-69,45,"Worker compliance (background checks, badging, etc.)"
-70,46,Worker evaluation
-71,47,Reporting/Business Intelligence
-72,48,SOW Module
-73,49,SOW Supplier Management
-74,50,Requisition
-75,51,RFx
-76,52,Evaluation
-77,53,Negotiation
-78,54,SOW Creation
-79,55,SOW Structure
-80,56,Engagement Management
-81,57,Financial
-82,58,Reporting/Business Intelligence
-83,59,Solution Structure
-84,60,Sourcing
-85,61,Self-Sourcing
-86,62,Engagement/Compliance Management and Contract Management
-87,63,Engagement-Onboarding
-88,64,Execution-Management
-89,65,Execution - Off-boarding
-90,66,Invoicing - Settlement - Payment
-91,67,Private Talent Pools
-92,68,Mobile Devices - Mobility
-93,69,Online Marketplace Integrations
-94,70,VMS Integration
-95,71,MSP Enablement - Integration
-96,72, Independent Contract Evaluation/Compliance  Enablement - Integration
-97,73,AOR/EOR Enablement - Integration
-98,74,Reporting/Business Intelligence
-99,75,Algorithmic/AI-driven Activities
-100,76,Reporting/Business Intelligence
-101,77,Technology
-102,78,Services
-103,79,Globalization - Localization
-104,80,Data Schema
-105,80,Data Management
-106,80,Metric Management
-107,80,Reporting
-108,81,Globalization
-109,81,Organizational Modeling
-110,81,Personalization
-111,81,Project Management
-112,81,Workflow
-113,82,Account Management
-114,82,Document Management
-115,82,Information Management
-116,83,Supplier Information Management
-117,83,Supply Intelligence
-118,84,Automation
-119,84,Core Platform
-120,84,Data Management
-121,84,Document Management
-122,84,Emerging Technology
-123,84,Standards and Integrations
-124,84,UX Layer
-125,85,Contingent Workforce Management
-126,86,Supplier Performance Management
-127,87,Issue Management
-128,87,Plan Management
-129,88,Assessment
-130,88,Mitigation Planning
-131,88,Model Definition
-132,88,Monitoring & Identification
-133,88,Regulatory Compliance
-134,88,Supplier Risk Management
-135,89,Discovery
-136,89,Onboarding Support
-137,89,Supply Base Profiling
-138,90,Collaboration
-139,90,Information Management
-140,90,Performance Management
-141,90,Relationship Management
-142,90,Supplier Portal
-143,91,S2P Services
-144,92,SPT Services
-145,93,Sourcing - SXM Services
-146,94,Category Analysis
-147,94,Should-Cost Modelling
-148,95,Construction
-149,95,Evaluation mechanisms
-150,95,RFX Management Capabilities
-151,95,Auction
-152,96,Foundations
-153,96,Sophisticated Constraint Analysis
-154,96,Freight Analytics
-155,97,Core Capabilities
-156,98,Core Capabilities
-157,99,Extended SIM
-158,100,Development & Innovation Management
-159,100,NPD / NPI
-160,100,Out-of-the-Box Reporting
-161,101,Process Support
-162,102,Raw Capability
-163,102,Out of the Box
-164,103,Core Contract modeling 
-165,103,Extended Contract Modeling and Analytics
-166,104,Contract Expiry & Renewal Management
-167,104,Contract Creation and Authoring
-168,104,Contract Collaboration
-169,104,Contract Performance Management
-170,105,Performance Management Analytics
-171,105,Knowledge Management and Expertise
-172,106,Catalog Creation / Onboarding
-173,106,Catalog Objects
-174,106,Catalog Data Quality Control
-175,106,Catalog Approvals  / Validations
-176,106,Catalog Maintenance
-177,106,Catalog Mobility
-178,106,Catalog Analytics
-179,106,Internet Shopping / Distributed Content 
-180,106,Catalog Roadmap
-181,107,Requisitioning Setup
-182,107,Profiles Setup
-183,107,Marketplace User Interface
-184,107,Search Engine
-185,107,Third-Party Content
-186,107,Requisitioning Process
-187,107,Sourcing Integration
-188,107,Direct Material Requisitioning
-189,107,Guided Buying
-190,107,Requisitioning Help & Support 
-191,107,Shopping Cart / Checkout Process
-192,107,Requisitioning Budget Checking Process
-193,107,Requisitioning Inventory Checking Process
-194,107,Approval Process / Approval Engine
-195,107,Mobility
-196,107,Requisitioning Analytics
-197,107,Requisition Roadmap
-198,108,Order Setup
-199,108,Order Creation
-200,108,Contract Compliance
-201,108,Order Processing (buy-side)
-202,108,Order Delivery / Communication
-203,108,Order Collaboration (buyer/supplier)
-204,108,Order Processing (supply-side)
-205,108,PO Mobility
-206,108,Ordering Analytics
-207,108,PO Roadmap
-208,109,Receiving Setup
-209,109,Fulfillment
-210,109,Receiving Process
-211,109,Receiving Mobility
-212,109,Receiving Analytics
-213,109,Receiving Roadmap
-214,110,Invoicing Setup
-215,110,Invoicing Creation / Capturing / Submission
-216,110,Services Invoicing & Contract Invoicing
-217,110,Invoice Compliance
-218,110,Invoice Validation / Approvals
-219,110,Invoice Collaboration
-220,110,Invoicing Integrations
-221,110,Invoicing Mobility
-222,110,Invoicing Analytics
-223,110,Invoicing Roadmap
-224,111,Payment Solution & Methods
-225,111,Payment Processing
-226,111,Payment Cards
-227,111,Early Payment Financing - Core
-228,111,Financing Analytics
-229,111,Payment & Financing Roadmap
-230,112,Early Payment Financing - Specialized
-231,112,Dynamic Discounting (Specialized)
-232,112,Supply Chain Finance (Specialized)
+﻿sid,c_id,subcategory_name,user_id
+1,1,Catalogs,1
+2,1,Shopping / Requisitioning,1
+3,1,Ordering,1
+4,1,Receiving,1
+5,2,Supplier Network,1
+6,2,Configurability,1
+7,2,Technology,1
+8,2,Services,1
+9,3,Invoicing,1
+10,3,Payment / Financing,1
+11,4,Category Analysis,1
+12,4,Should-Cost Modeling,1
+13,5,Project Management,1
+14,6,Supplier Portal,1
+15,7,Spend Analysis,1
+16,8,RFX / Surveys,1
+17,8,Evaluation mechanisms,1
+18,8,RFX Management Capabilities,1
+19,8,Auction,1
+20,9,Optimization,1
+21,9,Sophisticated Constraint Analysis,1
+22,10,Contract Management,1
+23,11,Performance Management,1
+24,11,Risk Management,1
+25,11,Corrective Management,1
+26,12,Technology,1
+27,13,Configurability,1
+28,14,Services,1
+29,15,Data Layer,1
+30,16,Process Support,1
+31,17,Raw Capability,1
+32,17,Out of the Box,1
+33,18,Technology,1
+34,19,Configurability,1
+35,20,Services,1
+36,21,MDM,1
+37,22,SIM,1
+38,23,Conflict Resolution,1
+39,23,SPM,1
+40,23,Innovation Management & NPD,1
+41,23,Risk Management,1
+42,24,Portal,1
+43,25,Technology,1
+44,26,Configurability,1
+45,27,Services,1
+46,28,Core Contract Modeling,1
+47,28,Extended Contract Modeling and Analytics,1
+48,29,Contract Expiry & Renewal Management,1
+49,29,Contract Creation and Authoring,1
+50,29,Contract Collaboration,1
+51,29,Contract Performance Management,1
+52,30,Performance Management Analytics,1
+53,30,Knowledge Management and Expertise,1
+54,31,General Areas (not integration specific) ,1
+55,31,Integrations,1
+56,32,Configurability,1
+57,33,Services,1
+58,34,Supplier Management,1
+59,35,Candidate Evaluation/Selection,1
+60,36,Candidate Submissions,1
+61,37,Change Order Management,1
+62,38,Engagement Management,1
+63,39,On / Off -boarding,1
+64,40,Online Support and Help,1
+65,41,Rate Management,1
+66,42,Requisition Creation and Approvals,1
+67,43,Time and Expense,1
+68,44,Treasury Management,1
+69,45,"Worker compliance (background checks, badging, etc.)",1
+70,46,Worker evaluation,1
+71,47,Reporting/Business Intelligence,1
+72,48,SOW Module,1
+73,49,SOW Supplier Management,1
+74,50,Requisition,1
+75,51,RFx,1
+76,52,Evaluation,1
+77,53,Negotiation,1
+78,54,SOW Creation,1
+79,55,SOW Structure,1
+80,56,Engagement Management,1
+81,57,Financial,1
+82,58,Reporting/Business Intelligence,1
+83,59,Solution Structure,1
+84,60,Sourcing,1
+85,61,Self-Sourcing,1
+86,62,Engagement/Compliance Management and Contract Management,1
+87,63,Engagement-Onboarding,1
+88,64,Execution-Management,1
+89,65,Execution - Off-boarding,1
+90,66,Invoicing - Settlement - Payment,1
+91,67,Private Talent Pools,1
+92,68,Mobile Devices - Mobility,1
+93,69,Online Marketplace Integrations,1
+94,70,VMS Integration,1
+95,71,MSP Enablement - Integration,1
+96,72, Independent Contract Evaluation/Compliance  Enablement - Integration,1
+97,73,AOR/EOR Enablement - Integration,1
+98,74,Reporting/Business Intelligence,1
+99,75,Algorithmic/AI-driven Activities,1
+100,76,Reporting/Business Intelligence,1
+101,77,Technology,1
+102,78,Services,1
+103,79,Globalization - Localization,1
+104,80,Data Schema,1
+105,80,Data Management,1
+106,80,Metric Management,1
+107,80,Reporting,1
+108,81,Globalization,1
+109,81,Organizational Modeling,1
+110,81,Personalization,1
+111,81,Project Management,1
+112,81,Workflow,1
+113,82,Account Management,1
+114,82,Document Management,1
+115,82,Information Management,1
+116,83,Supplier Information Management,1
+117,83,Supply Intelligence,1
+118,84,Automation,1
+119,84,Core Platform,1
+120,84,Data Management,1
+121,84,Document Management,1
+122,84,Emerging Technology,1
+123,84,Standards and Integrations,1
+124,84,UX Layer,1
+125,85,Contingent Workforce Management,1
+126,86,Supplier Performance Management,1
+127,87,Issue Management,1
+128,87,Plan Management,1
+129,88,Assessment,1
+130,88,Mitigation Planning,1
+131,88,Model Definition,1
+132,88,Monitoring & Identification,1
+133,88,Regulatory Compliance,1
+134,88,Supplier Risk Management,1
+135,89,Discovery,1
+136,89,Onboarding Support,1
+137,89,Supply Base Profiling,1
+138,90,Collaboration,1
+139,90,Information Management,1
+140,90,Performance Management,1
+141,90,Relationship Management,1
+142,90,Supplier Portal,1
+143,91,S2P Services,1
+144,92,SPT Services,1
+145,93,Sourcing - SXM Services,1
+146,94,Category Analysis,1
+147,94,Should-Cost Modelling,1
+148,95,Construction,1
+149,95,Evaluation mechanisms,1
+150,95,RFX Management Capabilities,1
+151,95,Auction,1
+152,96,Foundations,1
+153,96,Sophisticated Constraint Analysis,1
+154,96,Freight Analytics,1
+155,97,Core Capabilities,1
+156,98,Core Capabilities,1
+157,99,Extended SIM,1
+158,100,Development & Innovation Management,1
+159,100,NPD / NPI,1
+160,100,Out-of-the-Box Reporting,1
+161,101,Process Support,1
+162,102,Raw Capability,1
+163,102,Out of the Box,1
+164,103,Core Contract modeling ,1
+165,103,Extended Contract Modeling and Analytics,1
+166,104,Contract Expiry & Renewal Management,1
+167,104,Contract Creation and Authoring,1
+168,104,Contract Collaboration,1
+169,104,Contract Performance Management,1
+170,105,Performance Management Analytics,1
+171,105,Knowledge Management and Expertise,1
+172,106,Catalog Creation / Onboarding,1
+173,106,Catalog Objects,1
+174,106,Catalog Data Quality Control,1
+175,106,Catalog Approvals  / Validations,1
+176,106,Catalog Maintenance,1
+177,106,Catalog Mobility,1
+178,106,Catalog Analytics,1
+179,106,Internet Shopping / Distributed Content ,1
+180,106,Catalog Roadmap,1
+181,107,Requisitioning Setup,1
+182,107,Profiles Setup,1
+183,107,Marketplace User Interface,1
+184,107,Search Engine,1
+185,107,Third-Party Content,1
+186,107,Requisitioning Process,1
+187,107,Sourcing Integration,1
+188,107,Direct Material Requisitioning,1
+189,107,Guided Buying,1
+190,107,Requisitioning Help & Support ,1
+191,107,Shopping Cart / Checkout Process,1
+192,107,Requisitioning Budget Checking Process,1
+193,107,Requisitioning Inventory Checking Process,1
+194,107,Approval Process / Approval Engine,1
+195,107,Mobility,1
+196,107,Requisitioning Analytics,1
+197,107,Requisition Roadmap,1
+198,108,Order Setup,1
+199,108,Order Creation,1
+200,108,Contract Compliance,1
+201,108,Order Processing (buy-side),1
+202,108,Order Delivery / Communication,1
+203,108,Order Collaboration (buyer/supplier),1
+204,108,Order Processing (supply-side),1
+205,108,PO Mobility,1
+206,108,Ordering Analytics,1
+207,108,PO Roadmap,1
+208,109,Receiving Setup,1
+209,109,Fulfillment,1
+210,109,Receiving Process,1
+211,109,Receiving Mobility,1
+212,109,Receiving Analytics,1
+213,109,Receiving Roadmap,1
+214,110,Invoicing Setup,1
+215,110,Invoicing Creation / Capturing / Submission,1
+216,110,Services Invoicing & Contract Invoicing,1
+217,110,Invoice Compliance,1
+218,110,Invoice Validation / Approvals,1
+219,110,Invoice Collaboration,1
+220,110,Invoicing Integrations,1
+221,110,Invoicing Mobility,1
+222,110,Invoicing Analytics,1
+223,110,Invoicing Roadmap,1
+224,111,Payment Solution & Methods,1
+225,111,Payment Processing,1
+226,111,Payment Cards,1
+227,111,Early Payment Financing - Core,1
+228,111,Financing Analytics,1
+229,111,Payment & Financing Roadmap,1
+230,112,Early Payment Financing - Specialized,1
+231,112,Dynamic Discounting (Specialized),1
+232,112,Supply Chain Finance (Specialized),1

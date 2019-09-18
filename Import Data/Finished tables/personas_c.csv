@@ -1,1 +1,8 @@
-personaid,persona_name,user_id,active
+personaid,persona_name,user_id,active,user_id
+1,Nimble,1,1,1
+2,Deep,1,1,1
+3,Turn-Key,1,1,1
+4,Configurator,1,1,1
+5,CIO-F,1,1,1
+6,Optimizer,1,1,1
+7,Global,1,1,1
