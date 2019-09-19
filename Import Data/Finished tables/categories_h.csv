@@ -109,5 +109,6 @@ cid,pc_id,category_name,quarter,year,ud,user_id
 108,17,Ordering,2,2019,2019-04-01 00:00:01,1
 109,17,Receiving,2,2019,2019-04-01 00:00:01,1
 110,18,Invoicing,2,2019,2019-04-01 00:00:01,1
-111,18,Payment & Financing,2,2019,2019-04-01 00:00:01,1
-112,18,OPTIONAL For Specialized Personas (Additional coverage in SolutionMap),2,2019,2019-04-01 00:00:01,1
+111,18,Payment,2,2019,2019-04-01 00:00:01,1
+112,18,Financing,2,2019,2019-04-01 00:00:01,1
+113,18,OPTIONAL For Specialized Personas (Additional coverage in SolutionMap),2,2019,2019-04-01 00:00:01,1
