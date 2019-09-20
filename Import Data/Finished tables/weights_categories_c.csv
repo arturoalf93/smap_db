@@ -1,4 +1,4 @@
-m_id,persona_id,c_id,weight,user_id
+m_id,persona_id,c_id,c_weight,user_id
 1,1,80,0.05,1
 1,2,80,0.1,1
 1,3,80,0.06,1
