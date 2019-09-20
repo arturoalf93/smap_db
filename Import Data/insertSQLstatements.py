@@ -69,7 +69,7 @@ ordered = [ 'triggers_disabled_c',
            'parent_categories_c', 'parent_categories_h', 'categories_c', 'categories_h', 'subcategories_c', 
            'subcategories_h', 'elements_c', 'elements_h', 'module_elements_c', 'module_elements_h',
            'rfi_vendors_h', 'rfi_vendors_c', 'rfi_analysts_h', 'rfi_analysts_c', 'personas_c',
-           'module_personas_c', 'weights_elements_c',
+           'module_personas_c', 'weights_elements_c', 'weights_categories_c',
            'triggers_disabled_h' ]
 
 """ LAST ORDER BEFORE Q2 19
