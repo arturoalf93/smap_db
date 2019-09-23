@@ -2792,196 +2792,9 @@
 7,664,3,take from analytics,1
 7,665,3,take from analytics,1
 7,666,4,SPECIFIC TO CLM,1
-7,667,4,                    Differentiated (supplier contracting/vetting capabiilities that can be appliedto staffing suppliers),1
-7,668,4,                    Differentiated (per above),1
-7,669,4,,1
-7,670,4,Not significantly differntiated,1
-7,671,4,,1
-7,672,4,,1
-7,673,3,Not significantly differntiated,1
-7,674,3,,1
-7,675,3,,1
-7,676,3,,1
-7,677,4,,1
-7,678,4,,1
-7,679,3,,1
-7,680,3,,1
-7,681,4,,1
-7,682,4,,1
-7,683,4,,1
-7,684,3,,1
-7,685,4,,1
-7,686,3,,1
-7,687,3,,1
-7,688,3,,1
-7,689,3,,1
-7,690,3,,1
-7,691,4,,1
-7,692,3,,1
-7,693,4,,1
-7,694,4,Differentiated (feature richness),1
-7,695,3,,1
-7,696,3,,1
-7,697,4,Differentiated (feature richness),1
-7,698,3,,1
-7,699,4,,1
-7,700,3,,1
-7,701,4,,1
-7,702,3,,1
-7,703,4,,1
-7,704,4,,1
-7,705,4,,1
-7,706,4,,1
-7,707,3,,1
-7,708,3,,1
-7,709,4,,1
-7,710,4,,1
-7,711,4,,1
-7,712,3,,1
-7,713,3,,1
-7,721,4,,1
-7,724,4,,1
-7,729,3," Differentiated, based on the scope of SOW functionality supported on mobile",1
-7,789,3,,1
-7,790,3,,1
-7,791,4," Differentiated, based on the scope of SOW functionality supported on mobile",1
-7,792,3,,1
-7,793,3,,1
-7,794,3,,1
-7,795,3,,1
-7,796,3,Differentiated,1
-7,797,4,,1
-7,798,3,Differentiated,1
-7,799,4,Differentiated,1
-7,800,4,Differentiated,1
-7,801,4,,1
-7,802,3,,1
-7,803,3,,1
-7,804,3,,1
-7,805,3,,1
-7,806,3,,1
-7,807,4,,1
-7,808,3,Differentiated,1
-7,809,3,,1
-7,810,4,Differentiated,1
-7,811,3,,1
-7,812,4,Differentiated,1
-7,813,4,,1
-7,814,4,Not significantly differentiated,1
-7,815,4,,1
-7,816,3,Not significantly differentiated,1
-7,817,4,,1
-7,818,4,,1
-7,819,4,,1
-7,820,4,,1
-7,821,3,,1
-7,822,3,,1
-7,836,4,Not significantly differentiated,1
-7,837,4,,1
-7,838,3,Not significantly differentiated,1
-7,839,4,,1
-7,840,3,Not significantly differentiated,1
-7,841,3,,1
-7,842,4,,1
-7,843,4,,1
-7,844,3,,1
-7,845,3,,1
-7,846,4,,1
-7,847,3,,1
-7,848,4,Not significanly differntiated,1
-7,849,4,,1
-7,850,3,Not significanly differntiated,1
-7,851,4,,1
-7,852,4,,1
-7,853,3,,1
-7,854,3,,1
-7,855,3,,1
-7,856,3,,1
-7,857,3,,1
-7,858,3,,1
-7,859,3,,1
-7,860,3,,1
-7,861,3,,1
-7,862,2,,1
-7,863,4,,1
-7,864,3,,1
-7,865,3,,1
-7,866,4,,1
 7,874,4,,1
 7,877,4,,1
 7,882,3,,1
-7,1048,4,"Scoring a 3, based on the functions being Boolean-based",1
-7,1049,5,Based on Reasoning above.,1
-7,1050,3,"Scoring a 3, based on the functions being Boolean-based",1
-7,1051,4,"Standard, not differentiated",1
-7,1052,3,Not significantly differentiated,1
-7,1053,3,"Standard, not differentiated",1
-7,1054,3,Not significantly differentiated,1
-7,1055,3,Agree that DCR's capability is differentiated,1
-7,1056,4,Not significantly differentiated,1
-7,1057,4,Not significantly differentiated,1
-7,1058,3,Not significantly differentiated,1
-7,1059,3,"As discussed, we have redefined question to Do you provide an on-premise solution.",1
-7,1060,4,"Question also redefined to ""Describe current infrastructure?"" Taking account of responses in pror row and this one: Not significantly differentiated. We have noted supporting multiple clouds and will revisit next quarter.",1
-7,1061,0,Standard Relational Technology is a standard score of 3 across ALL of our soluiton maps. (SM Analyst Michael Lamoureux),1
-7,1062,3,"We scored you above average here for your above average semantic capability. For a 5, you'd have to be industry leading aganst the best in class semantic document processors (including those in CLM) and convince us you win business on this feature alone. (SM Analyst Michael Lamoureux)",1
-7,1063,3,"DCR, like others, has a capability to manage nd process massive amounts of data. Our definition of big data, would require more than this (e.g. velocity). What we see is that you are putting together many oif the infrastucture elements to support it. This is about the ... SEE MORE IN EXCEL RFI",1
-7,1064,4,Not significantly differentiated,1
-7,1065,3,Not significantly differentiated,1
-7,1066,3,Not significantly differentiated,1
-7,1067,3,Not significantly differentiated,1
-7,1068,3,Not significantly differentiated,1
-7,1069,3,Strongly differentiated. ,1
-7,1070,3,"Just Amazon security is a 3. Data in Motion is, unfortunatley, still not standard, so a further 0.5 would be warranted here -- but this does not compare to some of the best platforms we've seen in S2P. (SM Analyst Michael Lamoureux)",1
-7,1071,4,Strongly differentiated. ,1
-7,1072,4,"As we discussed, we are taking a neutral approach to this question",1
-7,1073,3,Not significantly differentiated,1
-7,1074,3,Not significantly differentiated,1
-7,1075,3,Not significantly differentiated,1
-7,1076,3,Not significantly differentiated,1
-7,1077,3,Not significantly differentiated,1
-7,1078,3,"Differentiated, but other solutions across all procurement solutions are comparable",1
-7,1079,3,Score of 3 basically means solution provider engages in serious roadmapping and well defined roadmap. We may look more acutely at roadmap differntiation in the future. ,1
-7,1080,4,"Differentiated, but other solutions across all procurement solutions are comparable",1
-7,1081,3,Differentiated,1
-7,1082,3,,1
-7,1083,3,,1
-7,1084,4,Differentiated,1
-7,1085,4,Scoring roadmaps as 3s this round,1
-7,1086,4,Scoring roadmaps as 3s this round,1
-7,1087,3,Conversational systems specifically refers to AI-based converstional system technology - scored equally across all Solution Maps (SM Analyst Michael Lamoureux),1
-7,1088,3,Scoring roadmaps as 3s this round,1
-7,1089,2,Conversational systems specifically refers to AI-based converstional system technology - scored equally across all Solution Maps (SM Analyst Michael Lamoureux),1
-7,1090,0,"3 for now, looking forward to seeing new capabilities",1
-7,1091,3,We are scoring this category somewhat equivocally for now; we will revisit in more detail in the future,1
-7,1092,3,We are scoring this category somewhat equivocally for now; we will revisit in more detail in the future,1
-7,1093,3,We are scoring this category somewhat equivocally for now; we will revisit in more detail in the future,1
-7,1094,3,We are scoring this category somewhat equivocally for now; we will revisit in more detail in the future,1
-7,1095,3,We are scoring this category somewhat equivocally for now; we will revisit in more detail in the future,1
-7,1096,3,,1
-7,1097,4,,1
-7,1098,3,Per our discussion--not a currtent offering.,1
-7,1099,3,,1
-7,1100,3,,1
-7,1101,0,Per our discussion--not a currtent offering.,1
-7,1102,0,,1
-7,1103,0,"Assigning a 4, based on the service and service level you provide. Among other technology solution providers, this would be a differntiator.",1
-7,1104,0,,1
-7,1105,0,,1
-7,1106,4,"Assigning a 4, based on the service and service level you provide. Among other technology solution providers, this would be a differntiator.",1
-7,1107,0,,1
-7,1108,0,,1
-7,1109,0,,1
-7,1110,0,,1
-7,1111,3,,1
-7,1112,2,"Others have this general capability, they woukd also be scored as differentiated.",1
-7,1113,2,,1
-7,1114,3,"Others have this general capability, they woukd also be scored as differentiated.",1
-7,1115,3,,1
-7,1116,3,,1
-7,1117,3,"Others have this general capability, they woukd also be scored as differentiated.",1
-7,1118,3,                    Differentiated (supplier contracting/vetting capabiilities that can be appliedto staffing suppliers),1
-7,1119,3,                    Differentiated (per above),1
 7,2000,3,,1
 7,2001,4,,1
 7,2002,3,,1
@@ -13066,7 +12879,6 @@ a couple of providers can do this, but maybe not as good  let's demo",1
 25,2333,2,,1
 25,2334,3,,1
 25,2335,2,,1
-25,2366,3,,1
 25,2447,3,,1
 25,2448,3,,1
 25,2449,3,,1
@@ -21722,10 +21534,8 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 55,672,3,,1
 55,673,2,,1
 55,674,3,,1
-55,675,2,,1
 55,676,2,,1
 55,677,4,,1
-55,678,2,,1
 55,679,3,,1
 55,680,3,,1
 55,681,3,,1
@@ -21758,8 +21568,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 55,708,3,,1
 55,709,3,,1
 55,710,3,,1
-55,711,3,,1
-55,712,2,,1
 55,713,2,,1
 55,721,3,,1
 55,724,3,,1
@@ -21854,14 +21662,12 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 55,1067,3,,1
 55,1068,4,,1
 55,1069,3,,1
-55,1070,3,,1
 55,1071,5,,1
 55,1072,4,,1
 55,1073,4,,1
 55,1074,3,,1
 55,1075,3,,1
 55,1076,3,,1
-55,1077,3,,1
 55,1078,3,,1
 55,1079,4,,1
 55,1080,3,,1
@@ -22237,13 +22043,10 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 58,942,4,,1
 58,943,3,,1
 58,944,5,,1
-58,945,0,,1
 58,946,3,,1
 58,947,3,,1
 58,948,2,,1
 58,949,3,,1
-58,950,0,,1
-58,951,0,,1
 58,952,2,,1
 58,953,2,,1
 58,954,3,,1
@@ -22266,7 +22069,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 58,971,3,,1
 58,972,3,,1
 58,973,3,,1
-58,974,2,,1
 58,975,2,,1
 58,976,3,,1
 58,977,3,,1
@@ -22294,7 +22096,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 58,999,0,,1
 58,1000,3,,1
 58,1001,3,,1
-58,1002,3,,1
 58,1003,0,,1
 58,1004,0,,1
 58,1005,3,,1
@@ -22345,7 +22146,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 58,1063,3,,1
 58,1064,3,,1
 58,1065,2,,1
-58,1066,3,,1
 58,1067,3,,1
 58,1068,4,,1
 58,1069,4,,1
@@ -22358,7 +22158,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 58,1076,3,,1
 58,1077,3,,1
 58,1078,3,,1
-58,1079,3,,1
 58,1080,3,,1
 58,1081,1,,1
 58,1082,3,,1
@@ -22390,13 +22189,10 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 58,1108,0,,1
 58,1109,0,,1
 58,1110,0,,1
-58,1111,3,,1
 58,1112,2,,1
-58,1113,2,,1
 58,1114,0,,1
 58,1115,2,,1
 58,1116,4,,1
-58,1117,4,,1
 58,1118,0,,1
 58,1119,0,,1
 59,942,4,,1
@@ -22896,7 +22692,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,942,4,,1
 62,943,4,,1
 62,944,4,,1
-62,945,3,,1
 62,946,4,,1
 62,947,4,,1
 62,948,3,,1
@@ -22910,7 +22705,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,956,3,,1
 62,957,4,,1
 62,958,4,,1
-62,959,2,,1
 62,960,3,,1
 62,961,2,,1
 62,962,4,,1
@@ -22919,8 +22713,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,965,3,,1
 62,966,3,,1
 62,967,3,"Flexibility, configurability",1
-62,968,0,,1
-62,969,2,,1
 62,970,5,"Flexibility, configurability",1
 62,971,3,,1
 62,972,4,,1
@@ -22933,8 +22725,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,979,4,,1
 62,980,0,,1
 62,981,0,,1
-62,982,3,,1
-62,983,3,,1
 62,984,3,,1
 62,985,2,,1
 62,986,3,,1
@@ -22962,28 +22752,20 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,1008,4,,1
 62,1009,3,,1
 62,1010,2,,1
-62,1011,2,,1
 62,1012,2,,1
 62,1013,3,,1
 62,1014,0,,1
-62,1015,2,,1
-62,1016,2,,1
-62,1017,1,,1
 62,1018,0,,1
 62,1019,3,,1
 62,1020,3,,1
 62,1021,2,,1
-62,1022,0,,1
-62,1023,3,,1
 62,1024,0,,1
-62,1025,1,,1
 62,1026,0,,1
 62,1027,0,,1
 62,1028,3,,1
 62,1029,3,,1
 62,1030,3,"Yes, I agree this should score as differntiated. ",1
 62,1031,2,,1
-62,1048,2,,1
 62,1049,0,,1
 62,1050,2,,1
 62,1051,3,,1
@@ -22991,31 +22773,20 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,1053,3,,1
 62,1054,3,,1
 62,1055,1,,1
-62,1056,3,,1
 62,1057,3,,1
-62,1058,2,,1
-62,1059,3,,1
-62,1060,2,,1
 62,1061,0,,1
 62,1062,3,,1
 62,1063,3,,1
 62,1064,2,,1
-62,1065,2,,1
 62,1066,4,,1
 62,1067,3,,1
 62,1068,4,,1
 62,1069,4,,1
-62,1070,3,,1
 62,1071,4,,1
 62,1072,4,,1
 62,1073,4,,1
 62,1074,4,,1
 62,1075,3,,1
-62,1076,3,,1
-62,1077,3,,1
-62,1078,3,,1
-62,1079,3,,1
-62,1080,2,,1
 62,1081,2,,1
 62,1082,2,,1
 62,1083,0,,1
@@ -23037,8 +22808,6 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,1099,3,,1
 62,1100,3,,1
 62,1101,1,,1
-62,1102,1,,1
-62,1103,1,,1
 62,1104,1,,1
 62,1105,1,,1
 62,1106,4,,1
@@ -23046,12 +22815,8 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 62,1108,3,,1
 62,1109,1,,1
 62,1110,1,,1
-62,1111,3,,1
-62,1112,3,,1
-62,1113,3,,1
 62,1114,3,,1
 62,1115,0,,1
-62,1116,2,They expkained their partners,1
 62,1117,3,,1
 62,1118,3,,1
 62,1119,3,They expkained their partners,1
@@ -23702,3 +23467,1972 @@ https://www.youtube.com/watch?v=1npL-TNFOAQ",1
 64,2368,4,not scored in round 1,1
 64,2369,0,not scored in round 1,1
 64,2370,2,not scored in round 1,1
+7,1048,5,,1
+7,1049,5,,1
+7,1050,5,,1
+7,1051,4,,1
+7,1052,4,,1
+7,1053,3,,1
+7,1054,3,,1
+7,1055,4,,1
+7,1056,4,,1
+7,1057,4,,1
+7,1058,3,,1
+7,1059,3,,1
+7,1060,4,,1
+7,1061,0,,1
+7,1062,4,,1
+7,1063,4,,1
+7,1064,4,,1
+7,1065,3,,1
+7,1066,3,,1
+7,1067,3,,1
+7,1068,3,,1
+7,1069,3,,1
+7,1070,4,,1
+7,1071,4,,1
+7,1072,4,,1
+7,1073,3,,1
+7,1074,4,,1
+7,1075,3,,1
+7,1076,3,,1
+7,1077,3,,1
+7,1078,3,,1
+7,1079,3,,1
+7,1080,4,,1
+7,1081,4,,1
+7,1082,4,,1
+7,1083,3,,1
+7,1084,4,,1
+7,1085,4,,1
+7,1086,4,,1
+7,1087,5,,1
+7,1088,5,,1
+7,1089,3,,1
+7,1090,0,,1
+7,1091,0,,1
+7,1092,3,We need to see how this will manifest for CCW,1
+7,1093,4,,1
+7,1094,3,MUST BE professional services or other human-based services,1
+7,1095,3,MUST BE professional services or other human-based services,1
+7,1096,3,MUST BE professional services or other human-based services,1
+7,1097,4,MUST BE professional services or other human-based services,1
+7,1098,4,,1
+7,1099,4,MUST BE professional services or other human-based services,1
+7,1100,3,,1
+7,1101,0,MUST BE professional services or other human-based services,1
+7,1102,0,MUST BE professional services or other human-based services,1
+7,1103,0,MUST BE professional services or other human-based services,1
+7,1104,0,MUST BE professional services or other human-based services,1
+7,1105,0,MUST BE professional services or other human-based services,1
+7,1106,0,MUST BE professional services or other human-based services,1
+7,1107,0,MUST BE professional services or other human-based services,1
+7,1108,0,MUST BE professional services or other human-based services,1
+7,1109,0,MUST BE professional services or other human-based services,1
+7,1110,0,MUST BE professional services or other human-based services,1
+7,1111,3,,1
+7,1112,3,,1
+7,1113,2,,1
+7,1114,3,,1
+7,1115,3,,1
+7,1116,3,,1
+7,1117,3,,1
+7,1118,3,,1
+7,1119,3,The question is really: What are the specific partners that are integrated with CCW.,1
+7,667,4,,1
+7,668,4,,1
+7,669,4,,1
+7,670,4,,1
+7,671,4,,1
+7,672,4,,1
+7,673,3,,1
+7,674,3,,1
+7,675,4,"Conditional-based approval workflows can be configured for all pre-identified requisitions at both the requisition and candidate level, checking for justification for using a pre-identified resource and ca",1
+7,676,3,,1
+7,677,4,,1
+7,678,4,,1
+7,679,3,,1
+7,680,3,,1
+7,681,4,,1
+7,682,4,,1
+7,683,4,,1
+7,684,3,,1
+7,685,4,,1
+7,686,3,,1
+7,687,3,,1
+7,688,3,,1
+7,689,4,,1
+7,690,3,,1
+7,691,4,,1
+7,692,3,,1
+7,693,4,,1
+7,694,4,,1
+7,695,3,,1
+7,696,3,,1
+7,697,4,,1
+7,698,3,,1
+7,699,4,,1
+7,700,3,,1
+7,701,4,,1
+7,702,3,,1
+7,703,4,,1
+7,704,4,,1
+7,705,4,Asssume self score of zero was an error,1
+7,706,4,,1
+7,707,3,,1
+7,708,3,,1
+7,709,4,,1
+7,710,4,,1
+7,711,4,,1
+7,712,3,,1
+7,713,4,,1
+7,721,4,,1
+7,724,4,,1
+7,729,4,,1
+7,789,4,,1
+7,790,3,,1
+7,791,4,,1
+7,792,3,,1
+7,793,4,,1
+7,794,3,,1
+7,795,3,,1
+7,796,3,Evaluating  the CM capabilities from DCR at this time.,1
+7,797,4,,1
+7,798,3,,1
+7,799,4,,1
+7,800,4,,1
+7,801,4,,1
+7,802,3,,1
+7,803,3,,1
+7,804,3,,1
+7,805,3,,1
+7,806,3,,1
+7,807,4,,1
+7,808,3,,1
+7,809,3,,1
+7,810,4,,1
+7,811,3,,1
+7,812,4,,1
+7,813,4,,1
+7,814,4,"Does the current solution do this? Coupa supports very complex sourcing and mathematical optimization scenarios, including the breakdown of events into separately managed, weighted, scored, evaluated and awarded subsections.",1
+7,815,4,,1
+7,816,3,,1
+7,817,4,,1
+7,818,4,,1
+7,819,4,,1
+7,820,4,,1
+7,821,3,,1
+7,822,3,,1
+7,836,4,,1
+7,837,4,,1
+7,838,3,,1
+7,839,4,,1
+7,840,3,,1
+7,841,3,,1
+7,842,4,,1
+7,843,4,,1
+7,844,3,,1
+7,845,3,,1
+7,846,4,,1
+7,847,3,,1
+7,848,4,,1
+7,849,4,,1
+7,850,3,,1
+7,851,4,,1
+7,852,4,,1
+7,853,3,,1
+7,854,3,,1
+7,855,3,,1
+7,856,3,,1
+7,857,3,,1
+7,858,3,,1
+7,859,3,,1
+7,860,3,,1
+7,861,3,revisit,1
+7,862,2,,1
+7,863,4,,1
+7,864,3,,1
+7,865,3,,1
+7,866,4,,1
+67,1048,3,,1
+67,1049,2,"Really asking about the reliance on AI, etc.",1
+67,1050,2,"Really asking about the reliance on AI, etc.",1
+67,1051,3,,1
+67,1052,3,,1
+67,1053,4,,1
+67,1054,4,,1
+67,1055,4,,1
+67,1056,4,,1
+67,1057,4,,1
+67,1058,3,,1
+67,1059,4,,1
+67,1060,3,,1
+67,1061,0,,1
+67,1062,4,,1
+67,1063,3,,1
+67,1064,2,,1
+67,1065,0,,1
+67,1066,3,,1
+67,1067,3,,1
+67,1068,3,,1
+67,1069,3,,1
+67,1070,3,,1
+67,1071,3,,1
+67,1072,3,,1
+67,1073,3,,1
+67,1074,3,,1
+67,1075,3,,1
+67,1076,3,,1
+67,1077,3,,1
+67,1078,3,,1
+67,1079,3,,1
+67,1080,4,,1
+67,1081,3,,1
+67,1082,2,,1
+67,1083,3,,1
+67,1084,4,,1
+67,1085,0,,1
+67,1086,1,,1
+67,1087,0,,1
+67,1088,1,,1
+67,1089,0,,1
+67,1090,0,,1
+67,1091,0,,1
+67,1092,0,,1
+67,1093,3,,1
+67,1094,3,,1
+67,1095,3,,1
+67,1096,3,,1
+67,1097,4,,1
+67,1098,3,,1
+67,1099,3,,1
+67,1100,3,,1
+67,1101,4,,1
+67,1102,3,,1
+67,1103,2,,1
+67,1104,3,,1
+67,1105,3,,1
+67,1106,3,,1
+67,1107,3,Is this a data analysis service?,1
+67,1108,4,,1
+67,1109,3,,1
+67,1110,3,,1
+67,1111,2,,1
+67,1112,2,,1
+67,1113,2,,1
+67,1114,3,,1
+67,1115,0,,1
+67,1116,0,,1
+67,1117,0,,1
+67,1118,3,,1
+67,1119,2,,1
+67,667,2,,1
+67,668,2,,1
+67,669,2,,1
+67,670,2,,1
+67,671,2,,1
+67,672,3,,1
+67,673,3,,1
+67,674,3,,1
+67,675,2,,1
+67,676,2,,1
+67,677,3,,1
+67,678,2,,1
+67,679,3,,1
+67,680,3,,1
+67,681,2,,1
+67,682,3,,1
+67,683,3,,1
+67,684,2,,1
+67,685,2,,1
+67,686,3,,1
+67,687,3,,1
+67,688,3,,1
+67,689,2,,1
+67,690,3,,1
+67,691,2,,1
+67,692,3,,1
+67,693,2,,1
+67,694,3,,1
+67,695,3,,1
+67,696,3,,1
+67,697,2,,1
+67,698,2,,1
+67,699,3,,1
+67,700,3,,1
+67,701,2,,1
+67,702,3,,1
+67,703,3,,1
+67,704,2,,1
+67,705,3,,1
+67,706,3,,1
+67,707,3,,1
+67,708,3,,1
+67,709,3,,1
+67,710,3,,1
+67,711,3,,1
+67,712,3,,1
+67,713,2,,1
+67,721,4,,1
+67,724,2,,1
+67,729,3,,1
+67,789,4,,1
+67,790,2,,1
+67,791,2,,1
+67,792,2,,1
+67,793,2,,1
+67,794,2,,1
+67,795,2,,1
+67,796,2,,1
+67,797,2,,1
+67,798,2,,1
+67,799,1,,1
+67,800,3,,1
+67,801,2,,1
+67,802,3,,1
+67,803,3,,1
+67,804,2,,1
+67,805,2,,1
+67,806,2,,1
+67,807,2,,1
+67,808,2,,1
+67,809,1,,1
+67,810,3,,1
+67,811,3,,1
+67,812,2,,1
+67,813,2,,1
+67,814,3,,1
+67,815,2,,1
+67,816,2,,1
+67,817,2,,1
+67,818,2,,1
+67,819,2,,1
+67,820,2,,1
+67,821,2,,1
+67,822,1,,1
+67,836,2,,1
+67,837,1,,1
+67,838,2,,1
+67,839,2,,1
+67,840,2,,1
+67,841,2,,1
+67,842,2,,1
+67,843,2,,1
+67,844,3,,1
+67,845,2,,1
+67,846,3,,1
+67,847,2,,1
+67,848,2,,1
+67,849,2,,1
+67,850,2,,1
+67,851,3,,1
+67,852,2,,1
+67,853,2,,1
+67,854,2,,1
+67,855,3,,1
+67,856,2,,1
+67,857,1,,1
+67,858,2,,1
+67,859,2,,1
+67,860,2,,1
+67,861,2,,1
+67,862,2,,1
+67,863,2,,1
+67,864,2,,1
+67,865,3,,1
+67,866,3,,1
+67,874,3,,1
+67,877,3,,1
+67,882,3,,1
+66,2000,2.5,,1
+66,2001,2,,1
+66,2002,2,,1
+66,2003,0,,1
+66,2004,1,,1
+66,2005,1,,1
+66,2006,1,,1
+66,2007,2,,1
+66,2008,1,,1
+66,2009,2,,1
+66,2010,2,,1
+66,2011,1,,1
+66,2012,1,,1
+66,2013,0,,1
+66,2014,0,,1
+66,2015,1,,1
+66,2016,3,,1
+66,2017,3,,1
+66,2018,1,,1
+66,2019,1,,1
+66,2020,1,,1
+66,2021,2,,1
+66,2022,1,,1
+66,2023,1.5,,1
+66,2024,0,,1
+66,2025,0,,1
+66,2026,2,,1
+66,2027,1,,1
+66,2028,0,,1
+66,2029,1.5,‚Ä¶ but not output government accepted forms,1
+66,2030,0,,1
+66,2031,2,,1
+66,2032,1,,1
+66,2033,2,,1
+66,2034,1,,1
+66,2035,1,,1
+66,2036,0,,1
+66,2037,1,,1
+66,2038,0,,1
+66,2039,1,,1
+66,2040,0,,1
+66,2041,0,,1
+66,2042,2,higher score when granular permissioning is live,1
+66,2043,1.5,,1
+66,2044,3,,1
+66,2045,1,,1
+66,2046,2,,1
+66,2047,3,,1
+66,2048,0,,1
+66,2049,0,,1
+66,2050,2,,1
+66,2051,2,,1
+66,2052,2,,1
+66,2053,1,,1
+66,2054,0,,1
+66,2055,0,,1
+66,2056,2,,1
+66,2057,0,,1
+66,2058,1,,1
+66,2059,0,,1
+66,2060,1,,1
+66,2061,0,,1
+66,2062,2,,1
+66,2063,1,,1
+66,2064,1,,1
+66,2065,1,,1
+66,2066,0,,1
+66,2067,1,,1
+66,2068,1,,1
+66,2069,0,,1
+66,2070,0,,1
+66,2071,2,,1
+66,2072,2,,1
+66,2073,1,,1
+66,2074,2.5,,1
+66,2075,0,,1
+66,2076,0,,1
+66,2077,1,,1
+66,2078,0,,1
+66,2079,0,,1
+66,2080,0,,1
+66,2081,0,,1
+66,2082,0,,1
+66,2083,0,,1
+66,2084,3,,1
+66,2085,2,,1
+66,2086,1,"this refers to the scripting language support provided to the end user, not what is contained in your application ‚Ä¶ only supports formula creation",1
+66,2087,0,,1
+66,2088,0,,1
+66,2089,2.5,,1
+66,2090,1,"""The stars at night, are big and bright ‚Ä¶ """,1
+66,2091,2,,1
+66,2092,1,,1
+66,2093,1,,1
+66,2094,1,,1
+66,2095,1.5,,1
+66,2096,1,,1
+66,2097,1,"build fast and solid ‚Ä¶ not a lot on TradeShift yet, and there will likely be only two winners ‚Ä¶ First ‚Ä¶ and Best ‚Ä¶ ",1
+66,2098,1,,1
+66,2099,0,,1
+66,2100,1,,1
+66,2101,1,,1
+66,2102,2,,1
+66,2103,2,,1
+66,2104,2,complete customization ‚Ä¶ but not crosswalkable customizations across schemas across sandboxes,1
+66,2105,1,,1
+66,2106,1,,1
+66,2107,1,,1
+66,2108,1,,1
+66,2109,1.5,,1
+66,2110,1,,1
+66,2111,1,,1
+66,2112,2,,1
+66,2113,1,,1
+66,2114,1.5,,1
+66,2115,2,,1
+66,2116,1,,1
+66,2117,1.5,,1
+66,2118,2,,1
+66,2119,1,,1
+66,2121,3,,1
+66,2122,1,,1
+66,2123,0,,1
+66,2124,1,,1
+66,2125,0,,1
+66,2126,0,,1
+66,2127,0,,1
+66,2128,3,,1
+66,2129,1,,1
+66,2130,1,,1
+66,2131,1,,1
+66,2132,1,,1
+66,2133,0,,1
+66,2134,1,,1
+66,2135,1,,1
+66,2136,0,,1
+66,2137,0,,1
+66,2138,1,,1
+66,2139,0,,1
+66,2140,3,,1
+66,2141,0,,1
+66,2142,1,,1
+66,2143,1,,1
+66,2144,0,,1
+66,2145,0,,1
+66,2146,0,,1
+66,2147,1,,1
+66,2148,1,,1
+66,2149,1,,1
+66,2150,0,,1
+66,2151,0,,1
+66,2152,2,,1
+66,2153,2,,1
+66,2154,1,,1
+66,2155,1,,1
+66,2156,2,,1
+66,2157,2,,1
+66,2158,1,,1
+66,2159,2,,1
+66,2160,2,,1
+66,2161,2,,1
+66,2162,2,,1
+66,2163,1.5,,1
+66,2164,0,,1
+66,2165,1.5,,1
+66,2166,1,,1
+66,2167,0,,1
+66,2168,0,,1
+66,2169,1.5,,1
+66,2170,1,,1
+66,2171,1,,1
+66,2172,1,,1
+66,2173,1,,1
+66,2174,1,,1
+66,2175,0,,1
+66,2176,0,,1
+66,2177,0,,1
+66,2178,0,,1
+66,2179,0,,1
+66,2180,0,,1
+66,2181,0,,1
+66,2182,0,,1
+66,2183,0,,1
+66,2184,0,,1
+66,2185,0,,1
+66,2186,0,,1
+66,2187,0,,1
+66,2188,1,,1
+66,2189,1,,1
+66,2190,1,,1
+66,2191,1,,1
+66,2192,0,,1
+66,2193,3,,1
+66,2194,1,,1
+66,2195,1,,1
+66,2196,0,,1
+66,2197,1,,1
+66,2198,0,,1
+66,2199,0,,1
+66,2200,1,,1
+66,2201,2,,1
+66,2202,2.5,,1
+66,2203,1,,1
+66,2204,1,,1
+66,2205,2,,1
+66,2206,1,,1
+66,2207,1,,1
+66,2208,2,,1
+66,2209,0,,1
+66,2210,2,,1
+66,2211,2,,1
+66,2212,2.5,,1
+66,2213,3,,1
+66,2214,2,Only so broad you can go formaly with 1 deep SME,1
+66,2215,2.5,"Only so deep you can go with a single SME, but will extra 1/2 point",1
+66,2216,2.5,"Great experience with Matt, but too small a team to scale to multiple large enterprises with analytics needs beyond basic eSourcing",1
+66,2217,2,Excel.  Opportunistic partnering.  Meh,1
+66,2218,1,,1
+66,2219,4,"The training'knowledge training infrastructure seems fairly tribal, but THIS is differentiated!...   ""We provide monthly training webinars at no cost, provide unlimited support at no cost""",1
+66,2220,4,High marks for high value and high touch even though not overly formalized,1
+66,2221,2,Basic at best,1
+66,2222,2,Impossible to do this well and scale it with such a small team,1
+66,2223,4,High points for what you do for your small clients.,1
+66,2224,1,"It's OK that you don't really do this.  This is about developing solutions in custom categories/industries or custom analytics (e.g., advanced commodity hedging, etc.)",1
+66,2225,2.5,"Not formally innovative, but the customer relationship and community network is clear.  You should consider banding together with some other similar complementaty senior SMEs with 7-8 person businesses like Mark Trowbridge, Mike Cadieux, etc.",1
+66,2226,3,"Seems strong because Matt is deep SME, but if Matt gets hit by a bus, that's a problem.  And the analytics themselves should get built into a tool to suport these automated diagnostics.",1
+66,2229,1,"Sourcing centric, not SRM centric.  Will give partial support score though rather than 0",1
+66,2230,3,Spreadsheet?  :-),1
+66,2231,0,This is about post sourcing event SRM-related services,1
+66,2232,2,"Tribal and ad hoc, but will give a 2",1
+66,2233,4.5,Get a 4 just because of money back guarantee!,1
+66,2234,4.5,"Yes, THIS is your sweet spot.  Would give a 5, but with 16 years, firm is only 7 people and 1-3 SMEs - and gives us pause how you'll scale at large enterprise level",1
+66,2235,4,"Yes, THIS is your sweet spot.  Would give a 5, but with 16 years, firm is only 7 people and 1-3 SMEs - and gives us pause how you'll scale at large enterprise level",1
+66,2236,1,,1
+66,2237,0,,1
+66,2238,0,,1
+66,2239,1,,1
+66,2240,0,,1
+66,2241,2,not sure you understand what the scale is asking beyond 2; 2 was demo'd,1
+66,2242,1,,1
+66,2243,0,,1
+66,2244,1,,1
+66,2245,3,,1
+66,2246,2,,1
+66,2247,0,not user - automatic!,1
+66,2248,2.5,,1
+66,2249,1,really looking for automation here; not just a queryable database,1
+66,2250,2,,1
+66,2251,3,,1
+66,2252,1,,1
+66,2253,2.5,direct import not demo'd,1
+66,2254,1.5,supports user in identifying cost components,1
+66,2255,3,supplier can define modified proposals,1
+66,2256,1,,1
+66,2257,3,,1
+66,2258,2,,1
+66,2259,2,,1
+66,2260,2,,1
+66,2261,4,"very deep, extensive, should-cost model support with the ability for suppliers to deine alternate proposals",1
+66,2262,4,,1
+66,2263,1,,1
+66,2264,3,,1
+66,2265,0,,1
+66,2266,0,,1
+66,2267,3,,1
+66,2268,1,,1
+66,2269,2,,1
+66,2270,1,,1
+66,2271,4,multi unit of measure,1
+66,2272,2,,1
+66,2273,2,,1
+66,2274,0,,1
+66,2275,3,,1
+66,2276,3,,1
+66,2277,4,due to advanced formula support,1
+66,2278,3,,1
+66,2279,2.5,,1
+66,2280,0,,1
+66,2281,0,,1
+66,2282,2,,1
+66,2283,3,,1
+66,2284,4,,1
+66,2285,0,,1
+66,2286,2,,1
+66,2287,3,,1
+66,2288,3,,1
+66,2289,1,,1
+66,2290,4,,1
+66,2291,2,,1
+66,2292,2.5,,1
+66,2293,3,,1
+66,2294,4,,1
+66,2295,2,,1
+66,2296,1.5,,1
+66,2297,1,,1
+66,2298,3,,1
+66,2299,2,,1
+66,2300,1,,1
+66,2301,4,,1
+66,2302,2,,1
+66,2303,2,,1
+66,2304,2,,1
+66,2305,1,,1
+66,2306,1,,1
+66,2307,1,,1
+66,2308,1,,1
+66,2309,1,,1
+66,2310,1,,1
+66,2311,2,,1
+66,2312,1,,1
+66,2313,0,,1
+66,2314,0,,1
+66,2315,0,,1
+66,2316,0,,1
+66,2317,3,,1
+66,2318,3,,1
+66,2319,0,,1
+66,2320,3,,1
+66,2321,3,,1
+66,2322,1,,1
+66,2323,2,,1
+66,2324,0,,1
+66,2325,0,,1
+66,2326,1,,1
+66,2327,1,,1
+66,2328,1,,1
+66,2329,1,,1
+66,2330,1,,1
+66,2331,1,,1
+66,2332,1,,1
+66,2333,0,,1
+66,2334,1,,1
+66,2335,1,,1
+65,2000,2.5,better than average textual data,1
+65,2001,2.5,"all standard SQL types includes the ability to store and retrieve any data object in blobs, but not necessarily analyze",1
+65,2002,3,do not see anything beyond 3 on our scale,1
+65,2003,3,,1
+65,2004,4,virtual node support; probably what you were going for in 2002,1
+65,2005,1,,1
+65,2006,4,,1
+65,2007,2,,1
+65,2008,3,,1
+65,2009,3,,1
+65,2010,3,,1
+65,2011,3,,1
+65,2012,3,,1
+65,2013,2,,1
+65,2014,3,,1
+65,2015,2,,1
+65,2016,4,for report cross-linking,1
+65,2017,3,,1
+65,2018,3,,1
+65,2019,3,,1
+65,2020,3.5,for the integrated graphical displays,1
+65,2021,4,for MDX that allow for filters on KPIs ‚Ä¶ ,1
+65,2022,2,,1
+65,2023,3.5,only because of the graphical wizard which is a bit more usable than peers with equivalent functionality,1
+65,2024,2.5,"corss-customer intelligence and benchmarks are limited, majority of functionality covered by 2",1
+65,2025,2,,1
+65,2026,0,,1
+65,2027,4,for integration detection and correction ,1
+65,2028,4,hierarchical overrides across source systems,1
+65,2029,0,,1
+65,2030,0,,1
+65,2031,2,,1
+65,2032,3,:-),1
+65,2033,4,:-),1
+65,2034,3,,1
+65,2035,2,"during classification, it would appear 2 is supported",1
+65,2036,1,,1
+65,2037,2.5,,1
+65,2038,0,,1
+65,2039,0,,1
+65,2040,3,,1
+65,2041,3,,1
+65,2042,3,"well, really a 2.75, but we only do .5 increments ‚Ä¶ (because the role and rights model is not necessarily user defineable)",1
+65,2043,0,,1
+65,2044,4,,1
+65,2045,3,,1
+65,2046,1,,1
+65,2047,2,,1
+65,2048,1,,1
+65,2049,0,,1
+65,2050,0,,1
+65,2051,2,not process driven'; status driven,1
+65,2052,0,,1
+65,2053,0,,1
+65,2054,1,,1
+65,2055,1,,1
+65,2056,0,,1
+65,2057,0,,1
+65,2058,0,,1
+65,2059,0,,1
+65,2060,0,,1
+65,2061,0,,1
+65,2062,0,,1
+65,2063,0,,1
+65,2064,0,,1
+65,2065,0,,1
+65,2066,0,,1
+65,2067,0,,1
+65,2068,0,,1
+65,2069,0,,1
+65,2070,0,,1
+65,2071,0,,1
+65,2072,0,,1
+65,2073,0,,1
+65,2074,0,,1
+65,2075,0,,1
+65,2076,0,,1
+65,2077,1,,1
+65,2078,1,,1
+65,2079,0,,1
+65,2080,3.5,"mainly for integration capabiliy, all algorithms otherwise covered by 3",1
+65,2081,2.5,,1
+65,2082,2.5,,1
+65,2083,0,,1
+65,2084,4,,1
+65,2085,3,,1
+65,2086,2.5,,1
+65,2087,2.5,,1
+65,2088,2,,1
+65,2089,3,,1
+65,2090,1,,1
+65,2091,1,,1
+65,2092,1,,1
+65,2093,3,,1
+65,2094,1,,1
+65,2095,2,,1
+65,2096,2,,1
+65,2097,3,,1
+65,2098,2,,1
+65,2099,0,,1
+65,2100,3,all covered by 3,1
+65,2101,2,,1
+65,2102,3,,1
+65,2103,2,,1
+65,2104,4,,1
+65,2105,3,"not very extensive OotB connector library compared to some peers, but the capabilites to create one for any platform based n large library of standard connectors",1
+65,2106,3,,1
+65,2107,2.5,"SAP-Special ‚Ä¶ because that system does need ""special"" treatment",1
+65,2108,3,,1
+65,2109,2,,1
+65,2110,3,"very good, but captured by 3",1
+65,2111,2,,1
+65,2112,2,,1
+65,2113,3,,1
+65,2114,0,,1
+65,2115,3,,1
+65,2116,0,,1
+65,2117,0,,1
+65,2118,0,,1
+65,2119,0,,1
+65,2120,0,,1
+65,2121,2,,1
+65,2122,0,,1
+65,2123,0,,1
+65,2124,0,,1
+65,2125,0,,1
+65,2126,0,,1
+65,2127,0,,1
+65,2128,3,,1
+65,2129,2,,1
+65,2130,0,,1
+65,2131,1,,1
+65,2132,2.5,,1
+65,2133,1,,1
+65,2134,3,,1
+65,2135,3,,1
+65,2136,1,,1
+65,2137,1,,1
+65,2138,2,,1
+65,2139,1,,1
+65,2140,2,,1
+65,2141,3,,1
+65,2142,2,,1
+65,2143,0,,1
+65,2144,1,,1
+65,2145,0,,1
+65,2146,0,,1
+65,2147,3,"barely, but sure",1
+65,2148,1,,1
+65,2214,3.5,"for breadth around integration with any data source;
+
+Very strong support for technical aspects of spend analytics focused on spend/price reductions, but breadth could be much broader for spend benchmarking,  deep category spend/performance analytics, market intelligence, sp... SEE MORE IN EXCEL RFI",1
+65,2215,3.5,"Given the narrow/technical scope, the depth seems strong technically.  But, small team, and all employees in Germany which hampers ability to have on the ground support for more than just remote technical support.  No real partner network.   ",1
+65,2216,4,Definitely differentiated for core spend analytics and will giv 4 to reward that even though the scope is fairly narrow.  There's broader scope/opportunity in supply analytics beyond spend analytics that's not really tackled though.,1
+65,2217,4,"Differentiiated within core spend analytics.  No AI derived from massive installed bases (including beyond spend classification).  No 'outside-in' big data analysis for risk, commodity mgmt, multi-tier modeling, ",1
+65,2218,3,"Seems decent, and will give 'strong'.  Differentiated comes with global scale; experience with dozens/hundreds of installs, deep technical/integration resources; ",1
+65,2219,2.5,fairly basic;but we'll give average,1
+65,2220,2.5,"Seems basic, but will give 1/2 point more than moderate.  ",1
+65,2221,1,,1
+65,2222,4,"Differentiated because it's core to the solution and native to the firm, but still focused fairly narrowly on technical aspects of spend analytics.",1
+65,2223,3.5,Strong.  Most vendors get low scores here.,1
+65,2224,2.5,,1
+65,2225,2,"Basic, but we'll give moderate for co-innovation capability",1
+65,2226,4,,1
+65,2227,4.5,,1
+65,2228,4.5,,1
+65,2371,3,,1
+65,2372,3,,1
+65,2373,3,,1
+65,2374,3,,1
+65,2375,3,,1
+65,2376,3,,1
+65,2377,4,collaboration element,1
+65,2378,3,,1
+65,2379,4,,1
+65,2380,3,,1
+65,2381,2,,1
+65,2382,3,,1
+65,2383,3,,1
+65,2384,4,"for the in-cube model capability , which gives two-level apability in definition and drived dimenson support",1
+65,2385,2,,1
+65,2386,0,,1
+65,2387,0,,1
+65,2388,3,,1
+65,2389,1,,1
+65,2390,2,"right now, semantic appears to be limited to tokenizing  free-text/description fields for the use in clustering/ML/neural-networks ‚Ä¶ not in-depth semantic applications / intelligence",1
+65,2391,0,,1
+65,2392,0,,1
+65,2393,2,,1
+65,2394,1.5,,1
+65,2395,3,,1
+65,2396,4,‚Ä¶ though I don't know who actually uses the chessboard ;-),1
+65,2397,1,,1
+65,2398,2,,1
+65,2399,2,,1
+65,2400,2,,1
+65,2401,0,,1
+65,2402,2,,1
+65,2403,2,,1
+65,2404,2,,1
+65,2405,1,,1
+65,2406,1,,1
+65,2407,2,,1
+68,1048,4,,1
+68,1049,3,,1
+68,1050,4,,1
+68,1051,4,,1
+68,1052,3,,1
+68,1053,3,,1
+68,1054,4,,1
+68,1063,4,,1
+68,1064,4,,1
+68,1065,3,,1
+68,1066,2,,1
+68,1067,2,,1
+68,1068,4,,1
+68,1069,4,,1
+68,1070,3,,1
+68,1071,4,discuss,1
+68,1072,4,discuss,1
+68,1073,3,Discuss,1
+68,1074,3,,1
+68,1075,3,,1
+68,1077,3,,1
+68,1078,3,,1
+68,1079,3,,1
+68,1080,5,Discuss,1
+68,1081,5,,1
+68,1082,5,,1
+68,1083,2,,1
+68,1084,3,,1
+68,1086,4,,1
+68,1087,2,,1
+68,1088,3,,1
+68,1089,,NA,1
+68,1090,,NA,1
+68,1091,,NA,1
+68,1092,,NA,1
+68,1093,3,Standard,1
+68,1094,3,,1
+68,1095,3,,1
+68,1096,,NA,1
+68,1097,3,,1
+68,1098,3,,1
+68,1099,3,,1
+68,1100,2,,1
+68,1101,0,Question is more about more estensive managed service,1
+68,1102,,NA,1
+68,1103,,NA,1
+68,1104,,NA,1
+68,1105,,NA,1
+68,1106,,NA,1
+68,1107,0,"mean a human services, not solution functionality",1
+68,1108,5,,1
+68,1109,3,,1
+68,1110,,NA,1
+68,1111,,NA,1
+68,1113,,Future,1
+68,1114,,NA,1
+68,1115,,NA,1
+68,1116,,NA,1
+68,1117,,NA,1
+68,1118,,NA,1
+68,1119,,NA,1
+68,942,4,,1
+68,943,3,,1
+68,944,5,,1
+68,947,3,,1
+68,950,4,Providing credit supporting the process that can include recruiter-curators,1
+68,955,4,,1
+68,956,1,,1
+68,957,0,NA,1
+68,958,0,NA,1
+68,959,0,NA,1
+68,960,3,NA,1
+68,961,0,NA,1
+68,962,0,NA,1
+68,963,0,NA,1
+68,964,0,NA,1
+68,965,0,NA,1
+68,966,2,,1
+68,967,0,NA,1
+68,968,0,NA,1
+68,969,0,NA,1
+68,970,2,Integration with 3rd party solutions earns a 2.,1
+68,971,4,"Though different than what have been intended by the question, am giving credit bc of all the capability to track/manage end-to-end wotker engagement",1
+68,972,5,"Geo-verfied time, client recording , phone connections",1
+68,973,2,,1
+68,974,0,NA,1
+68,975,3,,1
+68,978,4,"Real time notifications.  On the worker profile, can provide feedback",1
+68,979,4,,1
+68,980,5,,1
+68,981,0,NA,1
+68,982,3,Gave credit by considering completion of a shift as the deliverable.,1
+68,983,4,"Once they are entered they are good to go, reminder, etc.  ",1
+68,984,4,Scored 5 bc of continuous opportunity to rate,1
+68,985,0,NA,1
+68,986,0,NA,1
+68,987,4,4 bc skills demonstrated on a particular shift will show up on profile at the next shift selection.,1
+68,988,3,Formal integration Q4;  how frequesnt,1
+68,989,0,NA,1
+68,990,3,,1
+68,991,0,NA,1
+68,992,0,NA,1
+68,993,0,NA,1
+68,994,3,,1
+68,995,0,NA,1
+68,996,1,,1
+68,997,1,,1
+68,998,0,NA,1
+68,999,0,NA,1
+68,1000,4,Traditional staffing pool.  We look at multiple job roles.  ,1
+68,1001,3,,1
+68,1002,4,"Skill tags customizable, ",1
+68,1003,3,,1
+68,1004,4,,1
+68,1005,4,,1
+68,1006,4,,1
+68,1007,4,,1
+68,1008,4,,1
+68,1009,4,,1
+68,1010,4,,1
+68,1011,5,,1
+68,1012,5,,1
+68,1013,3,"Not quite what we are asking here, but giving credit",1
+68,1014,0,NA,1
+68,1015,2,Background  systems fragmentation,1
+68,1016,0,,1
+68,1017,0,NA,1
+68,1018,0,NA,1
+68,1019,0,NA,1
+68,1020,0,NA,1
+68,1021,0,NA,1
+68,1022,0,NA,1
+68,1023,0,NA,1
+68,1024,0,NA,1
+68,1025,0,NA,1
+68,1026,3,"OK, the staffing firm is the AOR",1
+68,1027,1,,1
+68,1028,0,NA,1
+68,1029,0,NA,1
+68,1030,0,NA,1
+68,1031,0,NA,1
+68,1039,3,,1
+68,1042,3,,1
+68,1047,4,,1
+62,1048,3,,1
+62,1056,4,,1
+62,1058,3,,1
+62,1059,3,,1
+62,1060,5,,1
+62,1065,3,,1
+62,1070,4,,1
+62,1076,3,,1
+62,1077,3,,1
+62,1078,3,,1
+62,1079,3,,1
+62,1080,3,,1
+62,1102,3,,1
+62,1103,1,,1
+62,1111,3,,1
+62,1112,3,,1
+62,1113,3,,1
+62,1116,2,,1
+62,945,4,,1
+62,959,4,,1
+62,968,2,,1
+62,969,4,,1
+62,982,3,,1
+62,983,4,,1
+62,1011,3,,1
+62,1015,1,,1
+62,1016,2,,1
+62,1017,2,,1
+62,1022,2,,1
+62,1023,3,,1
+62,1025,3,,1
+62,1039,4,,1
+62,1042,4,,1
+62,1047,4,,1
+58,1066,4,,1
+58,1079,4,,1
+58,1111,3,Add new langs in 2 weeks.,1
+58,1113,2,Two langs still a 2,1
+58,1117,4,,1
+58,945,1,,1
+58,950,2,,1
+58,951,3,,1
+58,974,3,,1
+58,1002,4,,1
+69,1049,3,,1
+69,1051,4,,1
+69,1052,3,,1
+69,1053,3,,1
+69,1054,3,,1
+69,1055,3,,1
+69,1056,5,"Assinging a 5 to give credit for the integration with the Peoplefluent  HCM/ATS platform.   Long before Learning Technologies Group acquired PeopleFluent, PeopleFluent recognized this desire for total talent visibility early and progressed in developing and integrating the ... SEE MORE IN EXCEL RFI",1
+69,1057,4,,1
+69,1058,3,,1
+69,1059,3,,1
+69,1060,3,,1
+69,1061,3,,1
+69,1062,3,,1
+69,1063,3,,1
+69,1064,3,,1
+69,1066,3,,1
+69,1067,3,,1
+69,1068,2,,1
+69,1069,3,,1
+69,1070,4,,1
+69,1071,4,,1
+69,1072,3,,1
+69,1076,3,,1
+69,1077,3,,1
+69,1078,3,,1
+69,1079,3,,1
+69,1080,1,,1
+69,1081,3,,1
+69,1082,2,,1
+69,1084,4,,1
+69,1089,1,,1
+69,1093,3,,1
+69,1094,3,,1
+69,1095,3,,1
+69,1096,3,,1
+69,1097,4,,1
+69,1098,3,,1
+69,1099,3,,1
+69,1100,3,,1
+69,1101,4,,1
+69,1102,0,"We are asking about  ""services"" provided by VectorVMS, not system functionality. ",1
+69,1103,0,"We are asking about  ""services"" provided by VectorVMS, not system functionality. ",1
+69,1104,,"We are asking about  ""services"" provided by VectorVMS, not system functionality. ",1
+69,1105,,"We are asking about  ""services"" provided by VectorVMS, not system functionality. ",1
+69,1106,4,,1
+69,1107,4,,1
+69,1108,0,"We are asking about  ""services"" provided by VectorVMS, not system functionality. ",1
+69,1109,3,,1
+69,1110,0,,1
+69,667,3,,1
+69,668,3,,1
+69,669,3,,1
+69,670,3,,1
+69,671,3,,1
+69,672,3,,1
+69,673,3,,1
+69,674,3,,1
+69,675,3,,1
+69,676,3,,1
+69,677,3,,1
+69,678,5,,1
+69,679,3,,1
+69,680,3,,1
+69,681,3,,1
+69,682,4,,1
+69,683,3,,1
+69,684,3,,1
+69,685,3,,1
+69,686,3,,1
+69,687,3,,1
+69,688,3,,1
+69,689,3,,1
+69,690,3,,1
+69,691,3,,1
+69,692,4,,1
+69,693,3,,1
+69,694,3,,1
+69,695,3,,1
+69,696,3,,1
+69,697,4,,1
+69,698,3,,1
+69,699,4,The timebound rate chagnes and historic tracking of prior rates or proposed rate changes is helpful.,1
+69,700,3,,1
+69,701,3,,1
+69,702,3,,1
+69,703,3,,1
+69,704,2,Weak compared to others. Really nothing but copy a prior req and make changes. Not much intelligence being used to support the req creation process. ,1
+69,705,3,,1
+69,706,3,,1
+69,707,3,,1
+69,708,3,,1
+69,709,3,,1
+69,710,3,,1
+69,711,3,,1
+69,712,4,,1
+69,713,3,,1
+69,721,5,,1
+69,724,4,,1
+69,729,4,,1
+69,789,3,,1
+69,790,3,,1
+69,791,2,,1
+69,792,3,,1
+69,793,3,,1
+69,794,3,,1
+69,795,3,,1
+69,796,2,,1
+69,797,3,,1
+69,798,3,,1
+69,799,3,,1
+69,800,3,,1
+69,801,2,,1
+69,802,3,,1
+69,803,3,,1
+69,804,3,,1
+69,805,3,,1
+69,806,3,,1
+69,807,3,,1
+69,808,3,,1
+69,809,1,,1
+69,810,1,,1
+69,811,3,,1
+69,812,3,,1
+69,813,2,,1
+69,814,3,,1
+69,815,3,,1
+69,816,1,,1
+69,817,3,,1
+69,818,3,,1
+69,819,1,,1
+69,820,2,,1
+69,821,3,,1
+69,822,1,,1
+69,836,2,,1
+69,837,3,,1
+69,838,3,,1
+69,839,2,,1
+69,840,2,,1
+69,841,2,,1
+69,842,3,,1
+69,843,3,,1
+69,844,2,,1
+69,845,3,,1
+69,846,4,,1
+69,847,4,,1
+69,848,4,,1
+69,849,3,,1
+69,850,3,,1
+69,851,3,,1
+69,852,3,,1
+69,853,3,,1
+69,854,3,,1
+69,855,2,,1
+69,856,4,,1
+69,857,3,,1
+69,858,3,,1
+69,859,2,,1
+69,860,3,,1
+69,861,3,,1
+69,862,2,,1
+69,863,2,,1
+69,864,3,,1
+69,865,3,,1
+69,866,3,,1
+69,874,5,,1
+69,877,3,,1
+69,882,3,,1
+55,1070,5,5?,1
+55,1077,4,,1
+55,675,3,we have seen similar pre-identified candidate routing elsewhere. Was not anything special from my perspective.,1
+55,678,4,Differentiated evaluation too.,1
+55,711,5,"Unique evaluation tool, dynamic and flexible fee module is big for VMS (and MSP), highly configurable and easy to apply ",1
+55,712,4,powerful and broadly applicable compliance module.,1
+25,2336,2.5,,1
+25,2337,3,,1
+25,2338,2,,1
+25,2339,1,,1
+25,2340,2,,1
+25,2341,3,,1
+25,2342,2,,1
+25,2343,2,,1
+25,2344,2,,1
+25,2345,2,,1
+25,2346,3,,1
+25,2347,3,,1
+25,2348,2,,1
+25,2349,2,,1
+25,2350,4,for Tradeshift integration,1
+25,2351,1,,1
+25,2352,1,,1
+25,2353,1,,1
+25,2354,2,,1
+25,2355,2,,1
+25,2356,3,,1
+25,2357,1,,1
+25,2358,1,,1
+25,2359,1,,1
+25,2360,1,,1
+25,2361,3,,1
+25,2362,1,,1
+25,2363,1,,1
+25,2364,0,,1
+25,2365,2,,1
+25,2366,3,,1
+25,2367,3,,1
+25,2368,3,,1
+25,2369,2.5,,1
+25,2370,2.5,,1
+8,2000,2.5,General Note for this and all Questions that follow: you must specifically address what is looked for on the scoring scale for a 3 and you must describe functionality beyond that for a 4; you must address reg-ex and / or data modelling beyond traditional relational modelling for this question,1
+8,2001,2,,1
+8,2002,2,,1
+8,2003,2,,1
+8,2004,3,,1
+8,2005,2,,1
+8,2006,3,,1
+8,2007,2,,1
+8,2008,3,,1
+8,2009,3,,1
+8,2010,3,,1
+8,2011,3,,1
+8,2012,2,,1
+8,2013,3,,1
+8,2014,1.5,some key functionality desired still in development; address on next map update in 2020,1
+8,2015,1,,1
+8,2016,3,,1
+8,2017,2,attachment not uploaded; please send through email,1
+8,2018,3,,1
+8,2019,2,,1
+8,2020,2.5,"not k-d crosstabs, but crosswalk is a bit beyond standard ",1
+8,2021,3,,1
+8,2022,2,,1
+8,2023,1,,1
+8,2024,1,,1
+8,2025,2,,1
+8,2026,2,,1
+8,2027,2,,1
+8,2028,2,,1
+8,2029,2,beyond EU?,1
+8,2030,2,"""ghost"" p-cards ‚Ä¶ cool ‚Ä¶ can I pay you in ""ghost"" dollars ;-)",1
+8,2031,3,:-),1
+8,2032,4,,1
+8,2033,2,,1
+8,2034,3,,1
+8,2035,3,,1
+8,2036,2,,1
+8,2037,2,,1
+8,2038,0,,1
+8,2039,2,,1
+8,2040,2,,1
+8,2041,3,,1
+8,2042,2,,1
+8,2043,3,,1
+8,2044,2.5,"neither dew drops nor merlin is completed or rolled out system wide ‚Ä¶ right now, UX is average to slightly above in many parts of the application; revisit on 2020 update, UX is improving! ",1
+8,2045,3,"(not quite, but more than 2.5 for sure)",1
+8,2046,2,,1
+8,2047,2,,1
+8,2048,2,,1
+8,2049,2,,1
+8,2050,3.5,"a few peers do match, but the UX is good here",1
+8,2051,3,,1
+8,2052,2,,1
+8,2053,3,,1
+8,2054,3,,1
+8,2055,3,,1
+8,2056,2,,1
+8,2057,3,,1
+8,2058,1,,1
+8,2059,1,,1
+8,2060,2,,1
+8,2061,2,,1
+8,2062,3,,1
+8,2063,1.5,in progress or requires GRMS; ,1
+8,2064,2,,1
+8,2065,1,,1
+8,2066,1.5,,1
+8,2067,3,might be generous here; haven't demo'd beyond 2.5,1
+8,2068,3,,1
+8,2069,1,,1
+8,2070,2,barely 2 now ‚Ä¶ ,1
+8,2071,2,,1
+8,2072,2,,1
+8,2073,3,heavily reliant on GRMS here ‚Ä¶ ,1
+8,2074,3,,1
+8,2075,4,for iCost,1
+8,2076,1,,1
+8,2077,1,,1
+8,2078,3.5,still a work in progress ‚Ä¶ the .5 is for trying to centralize bots in a way they can be deployed as needed throughout a syste,1
+8,2079,2,,1
+8,2080,2,,1
+8,2081,0,should be very applicable ‚Ä¶ package up the best in bots!,1
+8,2082,1,describe and demo ‚Ä¶ as part of CLM demo,1
+8,2083,3,,1
+8,2084,3,,1
+8,2085,3,,1
+8,2086,0,irrelevant whether platform is SaaS or Cloud for this one ‚Ä¶ ,1
+8,2087,2,,1
+8,2088,0,,1
+8,2089,2,,1
+8,2090,2.5,,1
+8,2091,0,,1
+8,2092,2,,1
+8,2093,0,,1
+8,2094,0,,1
+8,2095,2,,1
+8,2096,0,,1
+8,2097,3,,1
+8,2098,2,,1
+8,2099,3,,1
+8,2100,3,,1
+8,2101,2,give examples ‚Ä¶ ,1
+8,2102,2,,1
+8,2103,2,,1
+8,2104,3,,1
+8,2105,2.5,also references completed OOTB ERP and S2P adapters ‚Ä¶ not just capabiliy to create,1
+8,2106,3,,1
+8,2107,2,,1
+8,2108,2,,1
+8,2109,2,read the requirements for 3 very carefully,1
+8,2110,2,,1
+8,2111,1,,1
+8,2112,2,,1
+8,2113,2.5,MDM goes beyond supplier master ‚Ä¶ ,1
+8,2114,2,,1
+8,2115,1,,1
+8,2116,3,,1
+8,2117,3,,1
+8,2118,3,demo in CLM demo!,1
+8,2119,1,,1
+8,2120,2,,1
+8,2121,3,,1
+8,2122,2,,1
+8,2123,2.5,demo in CLM demo!,1
+8,2124,1,testing is NOT production,1
+8,2125,2.5,still needs dev and training,1
+8,2126,0,,1
+8,2127,0,,1
+8,2128,3,,1
+8,2129,4,"not much better than most peers, and at least two have equal capability, but more thought into usability (especially since you first had to integrate your own platform ‚Ä¶ )",1
+8,2130,3,,1
+8,2131,2,,1
+8,2132,2.5,still not a lot of out of the box ERP / MRP integrations ‚Ä¶ ,1
+8,2133,2,"    """"",1
+8,2134,3,,1
+8,2135,2.5,mainly GRMS and DnB,1
+8,2136,2,,1
+8,2137,2,,1
+8,2138,3,,1
+8,2139,1,rounded up!,1
+8,2140,3,,1
+8,2141,3,,1
+8,2142,2,,1
+8,2143,2,,1
+8,2144,2,,1
+8,2145,0,,1
+8,2146,0,,1
+8,2147,3,,1
+8,2148,3,,1
+8,2149,1,,1
+8,2150,2,,1
+8,2151,1,,1
+8,2152,1,,1
+8,2153,1,,1
+8,2154,2,,1
+8,2155,2,,1
+8,2156,2,,1
+8,2157,2,,1
+8,2158,1,,1
+8,2159,2,,1
+8,2160,2,,1
+8,2161,2,,1
+8,2162,1.5,"can, but does it have a few dozen examples out of the box?",1
+8,2163,2,,1
+8,2164,2,,1
+8,2165,2,,1
+8,2166,3,,1
+8,2167,1,,1
+8,2168,1,,1
+8,2169,1,,1
+8,2170,2,,1
+8,2171,2,"not much more than 1.5, but mre, rounded up",1
+8,2172,2,"""can be"" is not ""out of the box""",1
+8,2173,1,,1
+8,2174,2,,1
+8,2175,0,,1
+8,2176,0,,1
+8,2177,0,,1
+8,2178,1,,1
+8,2179,1,,1
+8,2180,2,,1
+8,2181,1,,1
+8,2182,0,,1
+8,2183,2,,1
+8,2184,2,,1
+8,2185,2,,1
+8,2186,0,"sorry, but details needed here!!!!  This is not DnB & GRMS out of the box ‚Ä¶ ",1
+8,2187,2,more details for 2+,1
+8,2188,0,"for this entire section, must address which partner and HOW it is reflected in the Zycus solution",1
+8,2189,0,,1
+8,2190,0,,1
+8,2191,0,,1
+8,2192,0,,1
+8,2193,0,,1
+8,2194,0,,1
+8,2195,0,,1
+8,2196,1,,1
+8,2197,2,,1
+8,2198,0,,1
+8,2199,0,,1
+8,2200,1,,1
+8,2201,1,,1
+8,2202,2,,1
+8,2203,2,,1
+8,2204,2,,1
+8,2205,2,,1
+8,2206,1,,1
+8,2207,2,,1
+8,2208,1,,1
+8,2209,0,,1
+8,2210,2,,1
+8,2211,1,,1
+8,2212,2,,1
+8,2213,3,,1
+8,2214,3.5,"This competent set of capabilities is not very differentiated from global S2P peers, especially  when considering higher value services beyond software implementation.  But will give a little more than 3 (which itself is strong due to near global delivery capability!)",1
+8,2215,3.5,"Will give 3.5 (which is higher than a strong rating of 3), but in-country services bench is light (same with partner bench strength), especially in the US",1
+8,2216,4,"Generally differentiated with ML embedded in many analytics, but room to improve in AI/ML and develop true analytics leadership",1
+8,2217,4,same as previous,1
+8,2218,2.5,,1
+8,2219,2.5,,1
+8,2220,2.5,"Could be 3 in the future, but we've had customer-cited issues on service broadly (but will still give 2.5 instaed of 2)",1
+8,2221,1.5,Will give a 2 or more if you can provide more details and a customer reference,1
+8,2222,1,"This is for native business consulting services, but we do give some credit to those who have some capability",1
+8,2223,1,same as previous,1
+8,2224,3,good!,1
+8,2225,1,"very tactical, but will give a point",1
+8,2226,2,,1
+8,2227,4,good!,1
+8,2228,4,good!,1
+8,2229,1,,1
+8,2230,3,,1
+8,2231,1,"Looking for native, but will give a point",1
+8,2232,1,"Looking for native, but will give a point.  Partner with Beroe!",1
+8,2233,0,,1
+8,2234,1,,1
+8,2235,1,"Looking for native, but will give a point",1
+8,2236,1,Looking for native.  1 is generous because this is a big space to not have native capabilities and only 2 partners,1
+8,2237,1,,1
+8,2238,1,,1
+8,2239,3,,1
+8,2240,3,,1
+8,2241,2,,1
+8,2242,1,,1
+8,2243,2,,1
+8,2244,1.5,‚Ä¶ in process is NOT production ‚Ä¶ ,1
+8,2245,3,,1
+8,2246,2,more details here ‚Ä¶ ,1
+8,2247,1,‚Ä¶ in process is NOT production ‚Ä¶ ,1
+8,2248,3,,1
+8,2249,3,,1
+8,2250,4,,1
+8,2251,1,,1
+8,2252,2,,1
+8,2253,1,,1
+8,2254,2,,1
+8,2255,1.5,ability to develop != out of the box easily customizeable,1
+8,2256,1,,1
+8,2257,2.5,,1
+8,2258,3,,1
+8,2259,3,,1
+8,2260,3,,1
+8,2261,2,,1
+8,2262,2,,1
+8,2263,2,more details,1
+8,2264,1,"refers to true SSDO, NOT Excel!!!",1
+8,2265,2,more details against scale ‚Ä¶ ,1
+8,2266,3,,1
+8,2267,1,refers to files and data beyond what fits in Excel,1
+8,2268,1,,1
+8,2269,1,,1
+8,2270,0,,1
+8,2271,1,,1
+8,2272,2,,1
+8,2273,2,,1
+8,2274,0,,1
+8,2275,3,,1
+8,2276,1,,1
+8,2277,3,,1
+8,2278,4,,1
+8,2279,0,details!,1
+8,2280,2,,1
+8,2281,1,,1
+8,2282,2,,1
+8,2283,3,,1
+8,2284,2,provide more details,1
+8,2285,2,,1
+8,2286,2,,1
+8,2287,2,,1
+8,2288,4,,1
+8,2289,2.5,,1
+8,2290,1,,1
+8,2291,1,,1
+8,2292,2,,1
+8,2293,1,,1
+8,2294,1,,1
+8,2295,2,,1
+8,2296,2,,1
+8,2297,0,,1
+8,2298,2,,1
+8,2299,1,,1
+8,2300,0,"deep details here with respect to the ""pre-configured scenarios"" you demo'd",1
+8,2301,2,‚Ä¶ based on cost modelling ‚Ä¶ ,1
+8,2302,2,possible even without optimization,1
+8,2303,1,optimization not needed if constraints limited / non-interdependent,1
+8,2304,1,,1
+8,2305,1,based on presented pre-defined scenarios,1
+8,2306,1,,1
+8,2307,0,"again, cut and paste doesn't work ‚Ä¶ don't you even know what your OWN solver is - more details here",1
+8,2308,1,,1
+8,2309,1,optimiatio n not needed with smart (although possibly code intensive) algorithms,1
+8,2310,2,"    """"""    ",1
+8,2311,1,"okay, details definitely needed here",1
+8,2312,0,"hey, if you want a 0, but this is almost as easy as capacity at a ""1""",1
+8,2313,0,,1
+8,2314,1,that would be a 1 rounded-up if it works ‚Ä¶ ,1
+8,2315,0,"FYI, if you really are using a leading solver, it should be straightforward to extract the data required to determine ""1""  with just a bit of processing ‚Ä¶ ",1
+8,2316,0,,1
+8,2317,1,,1
+8,2318,1,,1
+8,2319,0,,1
+8,2320,1,,1
+8,2321,0,,1
+8,2322,2,,1
+8,2323,2,,1
+8,2324,2.5,,1
+8,2325,1,,1
+8,2326,3,,1
+8,2327,0,,1
+8,2328,0,,1
+8,2329,1,,1
+8,2330,2,,1
+8,2331,3,,1
+8,2332,1,,1
+8,2333,3,,1
+8,2334,2,,1
+8,2335,2,,1
+8,2336,2,,1
+8,2337,3,,1
+8,2338,2,"probably rounded up ‚Ä¶ again, we ony score IN PRODUCTION",1
+8,2339,1,,1
+8,2340,0,"this is about OCR, not metadata extraction from documents in a native electronic format ‚Ä¶ ",1
+8,2341,2,more details relative to what we are looking for ,1
+8,2342,2,,1
+8,2343,1,,1
+8,2344,2,,1
+8,2345,2,,1
+8,2346,2,cross-correlation???,1
+8,2347,1,cut and paste doesn't work when the Q is dif!,1
+8,2348,1,address the scale,1
+8,2349,1,"maybe ‚Ä¶ don't cut and paste, address the Question!",1
+8,2350,2.5,,1
+8,2351,0,,1
+8,2352,1,,1
+8,2353,2,,1
+8,2354,2,,1
+8,2355,1,not really addressing the question,1
+8,2356,2.5,,1
+8,2357,2,,1
+8,2358,2,,1
+8,2359,1,"not pull, PUSH!",1
+8,2360,2,a sourcing process is limited with respect to NPD by the very nature of the sourcing process!!!  ,1
+8,2361,2.5,,1
+8,2362,1,,1
+8,2363,1,,1
+8,2364,1,,1
+8,2365,2.5,,1
+8,2366,2,,1
+8,2367,2.5,,1
+8,2368,3,,1
+8,2369,2,,1
+8,2370,2,,1
+8,2371,3,,1
+8,2372,0,,1
+8,2373,0,,1
+8,2374,3,,1
+8,2375,3,,1
+8,2376,3,,1
+8,2377,3,,1
+8,2378,0,,1
+8,2379,3,,1
+8,2380,0,,1
+8,2381,2,,1
+8,2382,1,,1
+8,2383,3,,1
+8,2384,1,,1
+8,2385,2,,1
+8,2386,1,,1
+8,2387,2,,1
+8,2388,3,,1
+8,2389,3,,1
+8,2390,1,more details and demo deeply in CLM demo,1
+8,2391,3,,1
+8,2392,0,,1
+8,2393,3,,1
+8,2394,2,,1
+8,2395,2.5,,1
+8,2396,2,,1
+8,2397,3,,1
+8,2398,2,,1
+8,2399,1,,1
+8,2400,2,,1
+8,2401,1,,1
+8,2402,2,,1
+8,2403,1,,1
+8,2404,2,,1
+8,2405,1,,1
+8,2406,2,,1
+8,2407,1,,1
+8,2408,2,,1
+8,2409,3,,1
+8,2410,2,,1
+8,2411,2,,1
+8,2412,1,,1
+8,2413,2,2 at best.  New functionality will get to 2.5 or 3,1
+8,2414,2,,1
+8,2415,2,,1
+8,2416,3,"There's functionality described here not related to version control, but will give benefit of the doubt here with a 3",1
+8,2417,1,,1
+8,2418,3,,1
+8,2419,2,,1
+8,2420,2,,1
+8,2421,2,,1
+8,2422,1,,1
+8,2423,1,,1
+8,2424,1,,1
+8,2425,3,,1
+8,2426,2,,1
+8,2427,2,,1
+8,2428,2,,1
+8,2429,2,"Will give a 3 if the ""Ask Anything"" is demonstrated to show how ML/AI is currently used in production product to do smart searching",1
+8,2430,3,"Wil assume some level of auto-class and metadata extraction, but need to see this demonstrated to earn a 4.  We will provide a test contract text file at time of demo",1
+8,2431,3,"Wil assume some level of auto-class and metadata extraction, but need to see this demonstrated to earn a 4.  We will provide a test contract text file at time of demo",1
+8,2432,3,,1
+8,2433,2,Would like demo to show capability for earning a 3,1
+8,2434,2,,1
+8,2435,3,,1
+8,2436,3.5,Good.  Multi-party earns 0.5 extrad beyond 3,1
+8,2437,1,,1
+8,2438,3,,1
+8,2439,2,,1
+8,2440,2,,1
+8,2441,3,,1
+8,2442,3,3=Strong,1
+8,2443,3,Being generous here,1
+8,2444,1.5,Some credit given for ML development which has domain specificity and not just general purpose tech,1
+8,2445,1.5,Some credit given for ML development which has a collective intelligence aspect to it,1
+8,2446,1.5,1.5 for some level of customer centricity,1
+8,2447,1,Please describe your invitation process to suppliers ,1
+8,2448,2,Please describe in more detail your dynamic registration process (score 3),1
+8,2449,2.5,,1
+8,2450,2,,1
+8,2451,2,,1
+8,2452,2,,1
+8,2453,2,,1
+8,2454,1,Please describe in more detail your amazon partner relationship for leverage contracts,1
+8,2455,2,,1
+8,2456,1,,1
+8,2457,2,,1
+8,2458,2,,1
+8,2459,1,,1
+8,2460,2.5,Please describe in more detail the extent of your capabilities for this specific requirement; see score scales.,1
+8,2461,2.5,,1
+8,2462,3,,1
+8,2463,2,,1
+8,2464,1,"Is there any AI/ML capability for this specific requirement, already in production today; not in the roadmap.",1
+8,2465,1,Explain in more detail your categorization process at the catalog level.,1
+8,2466,1.5,Describe your advance validation capabilities in more detail,1
+8,2467,2,,1
+8,2468,0,Explain how you use mobility for catalog management,1
+8,2469,,2,1
+8,2470,0,"This requirement is not about punch-outs nor API integrations, is about Non-contracted/partner external content",1
+8,2471,3,,1
+8,2472,2.5,Please explain in detaile the extent of your Multiple BUs and Global   setup options,1
+8,2473,2.5,"Explain the extent  of your multiple organization structures and systems instances capabilities within one same customer, for this specific requirement",1
+8,2474,2, ,1
+8,2475,1,,1
+8,2476,2.5,,1
+8,2477,3,,1
+8,2478,3,,1
+8,2479,0,"Please elaborate on your capability to optimize the UI based on user behaviour. This req is about optimization UI, not configuration. ",1
+8,2480,2,,1
+8,2481,3,,1
+8,2482,2,,1
+8,2483,3,,1
+8,2484,2,,1
+8,2485,2.5,,1
+8,2486,3,,1
+8,2487,3,,1
+8,2488,2,,1
+8,2489,3,,1
+8,2490,2,,1
+8,2491,1,,1
+8,2492,2,,1
+8,2493,2,,1
+8,2494,2,,1
+8,2495,2,,1
+8,2496,2.5,,1
+8,2497,2,,1
+8,2498,2,,1
+8,2499,2,,1
+8,2500,2,,1
+8,2501,1,,1
+8,2502,2.5,,1
+8,2503,1,,1
+8,2504,3,,1
+8,2505,3,,1
+8,2506,2,,1
+8,2507,1,,1
+8,2508,1,,1
+8,2509,1,,1
+8,2510,1,,1
+8,2511,1,,1
+8,2512,2,,1
+8,2513,3,,1
+8,2514,2.5,,1
+8,2515,2,,1
+8,2516,2,,1
+8,2517,2,,1
+8,2518,2,,1
+8,2519,2.5,,1
+8,2520,2,,1
+8,2521,2,,1
+8,2522,2,,1
+8,2523,2,,1
+8,2524,2.5,,1
+8,2525,2,,1
+8,2526,2,,1
+8,2527,2,,1
+8,2528,2,,1
+8,2529,2.5,,1
+8,2530,3,,1
+8,2531,2,,1
+8,2532,2.5,,1
+8,2533,3,,1
+8,2534,2,,1
+8,2535,2.5,,1
+8,2536,2,,1
+8,2537,2,,1
+8,2538,3,,1
+8,2539,3,,1
+8,2540,2,,1
+8,2541,3,,1
+8,2542,3,,1
+8,2543,3,,1
+8,2544,2,,1
+8,2545,2,,1
+8,2546,2,,1
+8,2547,2,,1
+8,2548,2,,1
+8,2549,3,,1
+8,2550,2,,1
+8,2551,2,,1
+8,2552,2,,1
+8,2553,2,,1
+8,2554,2,,1
+8,2555,3,,1
+8,2556,2,,1
+8,2557,2,,1
+8,2558,2,,1
+8,2559,2,,1
+8,2560,1,,1
+8,2561,1,,1
+8,2562,2,,1
+8,2563,3,,1
+8,2564,2,,1
+8,2565,2,,1
+8,2566,2,,1
+8,2567,2,,1
+8,2568,1,,1
+8,2569,2.5,,1
+8,2570,3,,1
+8,2571,3,,1
+8,2572,1,,1
+8,2573,0,,1
+8,2574,2,,1
+8,2575,2,,1
+8,2576,2,,1
+8,2577,2,,1
+8,2578,2,,1
+8,2579,2.5,,1
+8,2580,2,,1
+8,2581,2,,1
+8,2582,2,,1
+8,2583,2.5,,1
+8,2584,3,,1
+8,2585,3,,1
+8,2586,2,,1
+8,2587,2,,1
+8,2588,2,,1
+8,2589,2,,1
+8,2590,2,,1
+8,2591,3,,1
+8,2592,2,,1
+8,2593,2,,1
+8,2594,2,,1
+8,2595,2,,1
+8,2596,2,,1
+8,2597,2,,1
+8,2598,2.5,,1
+8,2599,2,,1
+8,2600,2,,1
+8,2601,1,,1
+8,2602,3,,1
+8,2603,3,,1
+8,2604,2,,1
+8,2605,2,,1
+8,2606,2.5,,1
+8,2607,1,need demonstartion of payment plans ,1
+8,2608,2,,1
+8,2609,2,,1
+8,2610,2,,1
+8,2611,2.5,,1
+8,2612,2.5,,1
+8,2613,2,,1
+8,2614,3,,1
+8,2615,2,,1
+8,2616,2,,1
+8,2617,2.5,,1
+8,2618,1,,1
+8,2619,3,,1
+8,2620,2,,1
+8,2621,2,,1
+8,2622,1,,1
+8,2623,1,,1
+8,2624,1,,1
+8,2625,2,,1
+8,2626,3,,1
+8,2627,2,,1
+8,2628,2,,1
+8,2629,2.5,,1
+8,2630,2,,1
+8,2631,2,,1
+8,2632,2,,1
+8,2633,2,,1
+8,2634,1,,1
+8,2635,1,,1
+8,2636,2,,1
+8,2637,2,,1
+8,2638,2,,1
+8,2639,2,,1
+8,2640,2,,1
+8,2641,1,,1
+8,2642,2,,1
+8,2643,1,,1
+8,2644,2,,1
+8,2645,1.5,,1
+8,2646,1,,1
+8,2647,2,,1
+8,2648,1,,1
+8,2649,1,,1
+8,2650,1,,1
+8,2651,0,,1
+8,2652,2.5,,1
+8,2653,0,,1
+8,2654,0,,1
+8,2655,0,,1
+8,2656,0,,1
+8,2657,1,,1
+8,2658,1,,1
+8,2659,0,,1

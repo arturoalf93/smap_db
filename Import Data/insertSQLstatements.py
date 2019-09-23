@@ -68,26 +68,11 @@ ordered = [ 'triggers_disabled_c',
            'vendors_h', 'log_trail', 'modules_c', 'modules_h', 'participation_charts_c', 'participation_charts_h',
            'parent_categories_c', 'parent_categories_h', 'categories_c', 'categories_h', 'subcategories_c', 
            'subcategories_h', 'elements_c', 'elements_h', 'module_elements_c', 'module_elements_h',
-           'rfi_vendors_h', 'rfi_vendors_c', 'rfi_analysts_h', 'rfi_analysts_c', 'personas_c',
+           'rfi_vendors_c', 'rfi_vendors_h', 'rfi_analysts_c', 'rfi_analysts_h', 'personas_c',
            'module_personas_c', 'weights_elements_c', 'weights_categories_c',
            'triggers_disabled_h' ]
 
-""" LAST ORDER BEFORE Q2 19
-ordered = ['suites', 'category_names', 'element_names',
-           'suitemodules', 'suitemodcat', 'elementvariants', 'suitemodcatelem',
-           'parentvendors', 'vendors', 'personas', 'users', 'rfi',
-           'rfielements_providers', 'rfielements_analysts', 'vendors_rfi', 'current_quarteryear',
-           'survey_references', 'refs_suitemods']
 
-"""
-
-""" LAST ORDER ALVARO DID
-ordered = ['Suites', 'Categories', 'Subcategories', 'Elements', 'SuiteCategory',
-           'SuiteCatSub', 'ElementVariants', 'SuiteCatSubElem', 'SuiteCatSubElem_version',
-           'ParentVendors', 'Vendors', 'Personas', 'UserTypes', 'UserLogin', 'RFI',
-           'RFIelements', 'Weights' ,'SMscores', 'Surveys', 'SurveyReferences',
-           'SurveyQuestions', 'SurveyScores', 'SurveyRefSuiteCat', 'SurveyWeights']
-"""
 with open(os.path.join(sql_path, '0ALL.txt'),'w') as outfile:
     for fname in ordered:
         if fname == 'FK_TRIGGERS_DISABLED_USERS':
