@@ -1,1 +1,1 @@
-INSERT IGNORE INTO personas_c (personaid, persona_name, active, user_id) VALUES ("1", "Nimble", "1", "1"), ("2", "Deep", "1", "1"), ("3", "Turn-Key", "1", "1"), ("4", "Configurator", "1", "1"), ("5", "CIO-F", "1", "1"), ("6", "Optimizer", "1", "1"), ("7", "Global", "1", "1");
+INSERT IGNORE INTO personas_c (personaid, persona_name, active, user_id) VALUES ("1", "Nimble", "1", "1"), ("2", "Deep", "1", "1"), ("3", "TurnKey", "1", "1"), ("4", "Configurator", "1", "1"), ("5", "CIO-F", "1", "1"), ("6", "Optimizer", "1", "1"), ("7", "Global", "1", "1");
